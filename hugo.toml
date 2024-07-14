@@ -12,14 +12,18 @@ title = 'Archives Server'
 
 [params]
 
+[params.footer]
+        # copyright = "© :YEAR: Lotus Labs. Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
+        # version = true # includes git commit info
+
 [params.social]
-        github = "https://github.com/ArchivesServer/archivesserver.github.io"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
+        github = "ArchivesServer/archivesserver.github.io"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
         # twitter = ""       # YOUR_TWITTER_ID
         # instagram = "colinwilson"     # YOUR_INSTAGRAM_ID
         # rss = true                    # show rss icon with link
 
 [params.docs] # Parameters for the /docs 'template'
-        title           = "Lotus Docs Example Site"           # default html title for documentation pages/sections
+        title           = "Archives Server"                   # default html title for documentation pages/sections
 
         # pathName        = "docs"                            # path name for documentation site | default "docs"
 
@@ -59,8 +63,8 @@ title = 'Archives Server'
 
         # Link behaviour
         # intLinkTooltip  = true                                # Enable a tooltip for internal links that displays info about the destination? default false
-        # extLinkNewTab   = false                             # Open external links in a new Tab? default true
-        # logoLinkURL = ""                                    # Set a custom URL destination for the top header logo link.
+        # extLinkNewTab   = false                               # Open external links in a new Tab? default true
+        # logoLinkURL = ""                                      # Set a custom URL destination for the top header logo link.
 
          [params.analytics] # Parameters for Analytics (Google, Plausible)
         # plausibleURL    = "/docs/s" # (or set via env variable HUGO_PARAM_ANALYTICS_plausibleURL)
@@ -99,15 +103,15 @@ title = 'Archives Server'
     identifier = "docs"
     weight = 10
 
-# [[menu.primary]]
-#     name  = "Showcase"
-#     url = "/showcase"
-#     identifier = "showcase"
-#     weight = 20
+[[menu.primary]]
+    name  = "Showcase"
+    url = "/showcase"
+    identifier = "showcase"
+    weight = 20
 
-# [[menu.primary]]
-#     name  = "Community"
-#     url = "https://github.com/colinwilson/lotusdocs/discussions"
-#     identifier = "community"
-#     weight = 30
+[[menu.primary]]
+    name  = "Community"
+    url = "https://github.com/colinwilson/lotusdocs/discussions"
+    identifier = "community"
+    weight = 30
         
