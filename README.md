@@ -1,6 +1,6 @@
 # Archives Server
 
-The Archives Server is a work-in-progress data library project, containing Android Universe and Netrunner source material.
+This server is a work-in-progress data library, containing Android Universe and Netrunner source material.
 
 [![Static Badge](https://img.shields.io/badge/Archives_Server-ALPHA-blue?style=flat)](https://archivesserver.github.io)
 
@@ -16,6 +16,7 @@ This lightweight project will contain text, code and limited image iconography o
 
 ### Static Site Generator
 Testing out: https://gohugo.io
+
 Theme: https://lotusdocs.dev
 
 ### Buttons
