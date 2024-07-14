@@ -16,6 +16,7 @@ This lightweight project will contain text, code and limited image iconography o
 
 ### Static Site Generator
 Testing out: https://gohugo.io
+Theme: https://lotusdocs.dev
 
 ### Buttons
 https://shields.io
