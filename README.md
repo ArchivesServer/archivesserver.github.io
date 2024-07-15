@@ -30,8 +30,8 @@ I am a long time table-top gamer and IT nerd, that loves exploring new games and
 
 # Small Print
 
-The information presented on this site about Android: Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games and/or Null Signal Games.
+The information presented on this site about Android: Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games.
 
-This website is not produced, endorsed, supported, or affiliated with Fantasy Flight Games or Null Signal Games.
+This website is not produced, endorsed, supported, or affiliated with Fantasy Flight Games, Wizards of the Coast or Null Signal Games.
 
 
