@@ -13,8 +13,7 @@ title = 'Archives Server'
 [params]
 
 [params.footer]
-        copyright = "© :YEAR: The information presented on this site about Android: Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games. This website is not produced, endorsed, supported, or affiliated with Fantasy Flight Games. 
-        Archives Server hacked with [**Github**](https://github.com/ArchivesServer/archivesserver.github.io)"
+        copyright = "© :YEAR: The information presented on this site about Android: Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games. This website is not produced, endorsed, supported, or affiliated with Fantasy Flight Games. Archives Server hacked with [**Github**](https://github.com/ArchivesServer/archivesserver.github.io)"
         # version = true # includes git commit info
 
 [params.social]
