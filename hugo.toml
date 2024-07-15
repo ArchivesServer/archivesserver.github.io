@@ -20,7 +20,7 @@ title = 'Archives Server'
         github = "ArchivesServer/archivesserver.github.io"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
         # twitter = ""       # YOUR_TWITTER_ID
         # instagram = "colinwilson"     # YOUR_INSTAGRAM_ID
-        # rss = true                    # show rss icon with link
+        rss = true                    # show rss icon with link
 
 [params.docs] # Parameters for the /docs 'template'
         title           = "Archives Server"                   # default html title for documentation pages/sections
@@ -33,7 +33,7 @@ title = 'Archives Server'
 
         prism           = true                                # enable syntax highlighting via Prism
 
-        prismTheme      = "solarized-light"                           # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
+        prismTheme      = "lucario"                           # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
 
         # gitinfo
         # repoURL         = "https://github.com/colinwilson/lotusdocs.dev"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
