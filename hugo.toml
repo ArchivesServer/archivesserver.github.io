@@ -13,8 +13,8 @@ title = 'Archives Server'
 [params]
 
 [params.footer]
-        # copyright = "© :YEAR: Lotus Labs. Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
-        # version = true # includes git commit info
+        copyright = "© :YEAR: Archives Server. Hacked with [**Github**](https://github.com/ArchivesServer/archivesserver.github.io)"
+        version = true # includes git commit info
 
 [params.social]
         github = "ArchivesServer/archivesserver.github.io"        # YOUR_GITHUB_ID or YOUR_GITHUB_URL
