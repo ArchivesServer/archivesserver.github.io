@@ -13,7 +13,7 @@ title = 'Archives Server'
 [params]
 
 [params.footer]
-        copyright = "Android universe © Fantasy Flight Games. This site is not affiliated with Fantasy Flight Games."
+        copyright = "Android universe © Fantasy Flight Games. This site is not endorsed or affiliated with Fantasy Flight Games."
         # version = true # includes git commit info
 
 [params.social]
