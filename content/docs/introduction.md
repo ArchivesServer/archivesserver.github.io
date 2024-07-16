@@ -13,7 +13,6 @@ Humans have come a long way since the dark ages. Cybernetic implants, gene thera
 Androids intelligent synthetic life-forms walk the streets and work the jobs too dangerous or onerous for humans. They’re taking away jobs from flesh-and-blood workers, redefining what it means to be rich and poor - even challenging the definition of what it means to be human.
 
 And there’s more of them every year.
-
-
+<br />
 [![](https://card-images.netrunnerdb.com/v2/large/25136.jpg)](https://netrunnerdb.com/en/card/25136)
-<span style="color:grey; font-size:10px;">Netrunner card by NetrunnerDB.com</span>
+######Netrunner card by NetrunnerDB.com
