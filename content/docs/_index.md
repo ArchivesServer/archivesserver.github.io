@@ -7,3 +7,4 @@ date: "2024-07-14T00:34:57+01:00"
 lastmod: "2024-07-14T00:34:57+01:00"
 draft: false
 ---
+[![Static Badge](https://img.shields.io/badge/Archives_Server-ALPHA-blue?style=flat)](https://archivesserver.github.io)
