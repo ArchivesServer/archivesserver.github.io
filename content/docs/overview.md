@@ -18,3 +18,5 @@ wage a war of information across the Network. But can they stand up to the might
 
 Explore the worlds in the Android Universe as
 you’ve never seen them before in this definitive guide.
+
+[![](https://card-images.netrunnerdb.com/v2/large/08020.jpg)](https://netrunnerdb.com/en/card/08020)
