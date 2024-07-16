@@ -13,9 +13,10 @@ Not everyone shares the corporate vision for the future. Human First leads the f
 Explore the worlds in the Android Universe as
 you’ve never seen them before in this definitive guide.
 
-<p style="text-align: center;"> 
+<div style="text-align: center;">
+<p>
 
 [![](https://card-images.netrunnerdb.com/v2/large/08020.jpg)](https://netrunnerdb.com/en/card/08020)  
 ![Static Badge](https://img.shields.io/badge/Netrunner_card_array-NetrunnerDB.com-blue?style=flat)
 
-</p>
+</p></div>
