@@ -24,9 +24,7 @@ https://shields.io
 
 # About
 
-**ALPHA - June 2024**
-
-I am a long time table-top gamer and IT nerd, that loves exploring new games and technology. Which is why the subject matter of this site appeals to me so much. As I begin this adventure digging deeper into the lore of Android and Netrunner, I decided to create and research this project to document my journey and provide an ongoing resource for others. I don't know how long this will take me or whether I'll ever finish, but I'm looking forward to the discoveries along the way... while also learning more about Git.
+I am a long time table-top gamer and IT nerd, that loves exploring new games and technology. Which is why the subject matter of this site appeals to me so much. As I begin this adventure digging deeper into the lore of Android and Netrunner, I decided to create and research this project to document my journey and provide an ongoing resource for others. I don't know how long this will take me or whether I'll ever finish, but I'm looking forward to the discoveries along the way... while also learning more about Git and markdown
 
 # Small Print
 
