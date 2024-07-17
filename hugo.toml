@@ -12,8 +12,6 @@ title = 'Archives Server'
 
 [params]
 
-css = ["static/css/custom.css"]
-
 [params.footer]
         copyright = "Android & Netrunner © Fantasy Flight Games. Site not affiliated with Fantasy Flight Games or Null Signal Games."
         # version = true # includes git commit info
