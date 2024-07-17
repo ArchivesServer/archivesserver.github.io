@@ -14,7 +14,9 @@ Androids intelligent synthetic life-forms walk the streets and work the jobs too
 
 And there’s more of them every year.  
 
-<div class="d-flex justify-content-center py-1">  
+<p class="d-flex justify-content-center py-1">
+  
 [![](https://card-images.netrunnerdb.com/v2/large/25136.jpg)](https://netrunnerdb.com/en/card/25136)  
-![Static Badge](https://img.shields.io/badge/Netrunner_card_array-NetrunnerDB.com-blue?style=flat)
-</div>
+![Static Badge](https://img.shields.io/badge/Netrunner_card_array-NetrunnerDB.com-blue?style=flat
+
+</p>
