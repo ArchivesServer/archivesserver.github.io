@@ -35,11 +35,11 @@ title = 'Archives Server'
 
         prismTheme      = "solarized-light"                           # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
 
-        # gitinfo
-        # repoURL         = "https://github.com/colinwilson/lotusdocs.dev"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
-        # repoBranch      = "release"
-        # editPage        = true                                # enable 'Edit this page' feature - default false
-        # lastMod         = true                                # enable 'Last modified' date on pages - default false
+        gitinfo
+        repoURL         = "https://github.com/ArchivesServer/archivesserver.github.io"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
+        repoBranch      = "release"
+        editPage        = true                                # enable 'Edit this page' feature - default false
+        lastMod         = true                                # enable 'Last modified' date on pages - default false
         # lastModRelative = true                                # format 'Last modified' time as relative - default true
 
         sidebarIcons    = true                                # enable sidebar icons? default false
@@ -65,36 +65,6 @@ title = 'Archives Server'
         # intLinkTooltip  = true                                # Enable a tooltip for internal links that displays info about the destination? default false
         # extLinkNewTab   = false                               # Open external links in a new Tab? default true
         # logoLinkURL = ""                                      # Set a custom URL destination for the top header logo link.
-
-         [params.analytics] # Parameters for Analytics (Google, Plausible)
-        # plausibleURL    = "/docs/s" # (or set via env variable HUGO_PARAM_ANALYTICS_plausibleURL)
-        # plausibleAPI    = "/docs/s" # optional - (or set via env variable HUGO_PARAM_ANALYTICS_plausibleAPI)
-        # plausibleDomain = ""      # (or set via env variable HUGO_PARAM_ANALYTICS_plausibleDomain)
-
-     [params.feedback]
-         enabled = true
-         emoticonTpl = true
-         eventDest = ["plausible","google"]
-         emoticonEventName = "Feedback"
-         positiveEventName = "Positive Feedback"
-         negativeEventName = "Negative Feedback"
-         positiveFormTitle = "What did you like?"
-         negativeFormTitle = "What went wrong?"
-         successMsg = "Thank you for helping to improve the Archives Server documentation!"
-         errorMsg = "Sorry! There was an error while attempting to submit your feedback!"
-         positiveForm = [
-           ["Accurate", "Accurately describes the feature or option."],
-           ["Solved my problem", "Helped me resolve an issue."],
-           ["Easy to understand", "Easy to follow and comprehend."],
-           ["Something else"]
-         ]
-         negativeForm = [
-           ["Inaccurate", "Doesn't accurately describe the feature or option."],
-           ["Couldn't find what I was looking for", "Missing important information."],
-           ["Hard to understand", "Too complicated or unclear."],
-    #       ["Code sample errors", "One or more code samples are incorrect."],
-           ["Something else"]
-         ]
 
 [menu]
 [[menu.primary]]
