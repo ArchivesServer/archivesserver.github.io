@@ -12,6 +12,10 @@ The source material featured in this project is a definitive guide for the Andro
 
 This lightweight project will contain text, code and limited image iconography only. This site will not contain large scale imagery or photography - Think of this project as the Kindle edition. Where necessary, this project can include relevant links to and/or suitable embeded imagery from official sources.
 
+# Netrunner card array DB
+
+https://app.teable.io/share/shrYE602jQrOh9triez/view
+
 # Website
 
 ### Static Site Generator
