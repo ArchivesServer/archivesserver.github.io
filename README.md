@@ -19,6 +19,9 @@ To provide a consistant visual theme for this server, card images from Netrunner
 ### Netrunner card array DB
 Track and monitor the cards used throughout this server: https://app.teable.io/share/shrYE602jQrOh9triez/view
 
+### Netrunner card images
+https://netrunnerdb.com
+
 # Website
 
 ### Static Site Generator
@@ -28,9 +31,6 @@ Theme: https://lotusdocs.dev
 
 ### Buttons
 https://shields.io
-
-### Netrunner card images
-https://netrunnerdb.com
 
 # About
 
