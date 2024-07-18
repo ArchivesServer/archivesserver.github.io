@@ -1,6 +1,7 @@
 baseURL = 'https://archivesserver.github.io'
 languageCode = 'en-us'
 title = 'Archives Server'
+enableGitInfo = true # N.B. .GitInfo does not currently function with git submodule content directories
 
 [module]
     [[module.imports]]
@@ -35,7 +36,7 @@ title = 'Archives Server'
 
         prismTheme      = "solarized-light"                           # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
 
-        gitinfo
+        # gitinfo
         repoURL         = "https://github.com/ArchivesServer/archivesserver.github.io"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
         repoBranch      = "release"
         editPage        = true                                # enable 'Edit this page' feature - default false
