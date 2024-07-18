@@ -6,7 +6,7 @@ This server is a work-in-progress data library, containing Android Universe and 
 
 # R&D
 
-The source material featured in this project is a definitive guide for the Android fictional universe and its unique vision of the future. This resource contains primary information, data and content that explores this thrilling cyberpunk world.
+The source material featured in this project collates official information to create a definitive guide for the Android fictional universe and its unique vision of the future. This resource contains primary information, data and content that explores this thrilling cyberpunk world.
 
 # Content
 
