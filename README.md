@@ -6,15 +6,18 @@ This server is a work-in-progress data library, containing Android Universe and 
 
 # R&D
 
-The source material featured in this project collates official information to create a definitive guide for the Android fictional universe and its unique vision of the future. This resource contains primary information, data and content that explores this thrilling cyberpunk world.
+The source material featured in this server imports official data to create a definitive guide for the Android fictional universe and its unique vision of the future. This resource contains primary information and content that explores this thrilling cyberpunk world.
 
 # Content
 
-This lightweight project will contain text, code and limited image iconography only. This site will not contain large scale imagery or photography - Think of this project as the Kindle edition. Where necessary, this project can include relevant links to and/or suitable embeded imagery from official sources.
+This lightweight server will contain text, code and limited image iconography only. This site will not contain large scale imagery or photography - Think of this server as the Kindle edition. Where necessary, this server can include relevant links to and/or suitable embeded imagery from official sources.
 
-# Netrunner card array DB
+# Netrunner card array
 
-https://app.teable.io/share/shrYE602jQrOh9triez/view
+To provide a consistant visual theme for this server, card images from Netrunner DB will be linked to each article - prioritising the latest NSG cards where possible.
+
+### Netrunner card array DB
+Track and monitor the cards used throughout this server: https://app.teable.io/share/shrYE602jQrOh9triez/view
 
 # Website
 
@@ -31,7 +34,7 @@ https://netrunnerdb.com
 
 # About
 
-I am a long time table-top gamer and IT nerd, that loves exploring new games and technology. Which is why the subject matter of this site appeals to me so much. As I begin this adventure digging deeper into the lore of Android and Netrunner, I decided to create and research this project to document my journey and provide an ongoing resource for others. I don't know how long this will take me or whether I'll ever finish, but I'm looking forward to the discoveries along the way... while also learning more about Git and markdown.
+I am a long time table-top gamer and IT nerd, that loves exploring new games and technology. Which is why the subject matter of this site appeals to me so much. As I begin this adventure digging deeper into the lore of Android and Netrunner, this server will document my journey and provide an ongoing resource for others. I don't know how long this will take me or whether I'll ever finish, but I'm looking forward to the discoveries along the way... while also learning more about Git and markdown.
 
 # Small Print
 
