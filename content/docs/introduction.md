@@ -3,7 +3,6 @@ weight: 100
 title: "Welcome to the Future"
 description: "From the highest peak on the equator, at the heart of the greatest and worst city Earth has ever known, a nanolattice weave of carbon fibers stretches to the heavens: the Beanstalk."
 icon: "Save"
-featured_image: "https://card-images.netrunnerdb.com/v2/large/25136.jpg"
 date: "2024-07-14T08:16:13+01:00"
 lastmod: "2024-07-14T08:16:13+01:00"
 ---
