@@ -1,10 +1,10 @@
 ---
 weight: 1000
 title: "Glossary"
-description: ""
+description: "A collection of common words and phrases from the Android Universe"
 icon: "hard_drive"
-date: "2024-07-16T08:16:13+01:00"
-lastmod: "2024-07-16T08:16:13+01:00"
+date: "2024-07-16T00:00:00+00:00"
+lastmod: "2024-07-16T00:00:00+00:00"
 draft: false
 ---
 ## A
