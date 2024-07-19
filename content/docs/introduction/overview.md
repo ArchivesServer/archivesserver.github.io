@@ -3,8 +3,8 @@ weight: 110
 title: "Overview"
 description: "Powerful megacorporations unlocked the technologies that revolutionized the lives of billions across Earth, Luna, and Mars—but at what cost?"
 icon: "Save"
-date: "2024-07-15T08:16:13+01:00"
-lastmod: "2024-07-15T08:16:13+01:00"
+date: "2024-07-15T00:00:00+00:00"
+lastmod: "2024-07-15T00:00:00+00:00"
 ---
 The rich are richer than ever before, living atop starscraper arcologies in the lap of luxury. Meanwhile, the poor scrape by in an underworld ruled by gangs and orgcrime. True artificial intelligence has opened the doors to synthetic life in the form of androids—clones and bioroids—while advances in cybernetic and genetic modification push the boundaries of what it means to be human.
 
