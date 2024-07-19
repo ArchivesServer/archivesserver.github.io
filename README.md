@@ -1,6 +1,6 @@
 # Archives Server
 
-This server is a work-in-progress data library, containing Android Universe and Netrunner source material.
+This open source server is a work-in-progress data library, containing Android Universe and Netrunner source material.
 
 [![Static Badge](https://img.shields.io/badge/Archives_Server-ALPHA-blue?style=flat)](https://archivesserver.github.io)
 
