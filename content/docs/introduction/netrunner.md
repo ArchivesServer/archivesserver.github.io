@@ -3,8 +3,8 @@ weight: 130
 title: "What is Netrunner?"
 description: "Netrunner is a two-player asymmetric card game set in a dystopian future where four megacorporations control almost every aspect of daily life."
 icon: "Save"
-date: "2024-07-19T08:16:13+01:00"
-lastmod: "2024-07-19T08:16:13+01:00"
+date: "2024-07-19T00:00:00+00:00"
+lastmod: "2024-07-19T00:00:00+00:00"
 ---
 Legendary hackers known as “runners” aim to fight the corps’ influence by hacking into their servers and preventing them from advancing their sinister agendas.
 
