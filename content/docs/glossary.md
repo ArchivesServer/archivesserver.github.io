@@ -26,3 +26,31 @@ draft: false
  **AI (Artificial intelligence)**: Createdintelligence, usually in the form of a machine or program. So-called “weak” AI (also known as “simulated intel-ligence” or “SI”), while sophisticated and sometimes convincingly realistic, falls short of true human-level intellect. “Strong” AI, or true intelligence, is currently only possible by utilizing brainmapping technology to emulate a human brain. Androids are the primary application of strong AI.
 
 ## B
+
+**Backscatter or “backscat”**: For backscatter X-ray. Also called “peek-a-boo” units. Security device that renders a subject nude on-screen in order to detect weapons or packages hidden beneath clothing. Modern refinements include the capacity to use focused ultrasound beams to search body cavities and internal organs as well. 
+
+**Bangers, also “streetbangers”**: Youth gangs common in the megacities. Often engaged in criminal activity, especially illicit drugs and sexies, and may go on crime sprees just for thrills.
+
+**Beanstalk, aka “New Angeles Space Ele-
+vator”**: An approximately 72,000km tall elevator construct tethered in New Angeles. Its stations include the Root (aka “Earth Station”), Midway, and the Castle (aka “Challenger Planetoid”). A cost-effective way to reach Earth orbit and points beyond. Named for the story of Jack and the Beanstalk and the man who built it, Jack Weyland.
+
+**Bioplas**: Biodegradable plastic commonly used in packaging and disposables.
+
+**Bioroid**: A type of android manufactured by Haas-Bioroid. Bioroids are robotic humanoids built of metal, plastic, silicon, and other synthetic materials. Their artificially intelligent brains are neurally channeled from braintapes derived from human brains.
+
+**Blackout, the**: A period of global disruption to regional networks that precipitated a sharp market downturn. The more secure architecture of SYNC’s Network eventually replaced the Internet as a result.
+
+**Brain-machine interface or “BMI”**: A device that allows direct communication between a user’s brain and a computer system. Commonly in the
+form of a so-called “brain-net” (for a wearable BMI) or a “skulljack” (a BMI cybernetically implanted in the user’s brain). BMIs are a new technology originally developed by the military. The first consumer-grade models are just entering the marketplace, and they are most popular among Netcriminals and the younger generation.
+
+**Brainmapping and braintaping**: Brain mapping technology was developed to scan the human brain to aid with the diagnosis and study of brain disorders. It has now become a general term for brain scans of many types. Braintaping is a specialized, extremely detailed application of brainmapping technology that allows the user to develop a working (but currently imperfect) copy of the original brain. Both technologies are essential for the creation of strong AI and androids.
+
+**Brain-net**: A type of BMI that is worn over the top of the skull. Brain-nets often resemble a “net” of threads linking contacts that are placed on the skull. Sometimes the net is built into a helmet, hood, or other piece of headgear.
+
+**Buckminsterfullerene**, also “bucky balls”: A carbon molecule (C60) with a number of unique properties. The term “buckyballs” has become the root of a number of terms for nano-scale carbon assemblages. Named for Buckminster Fuller, whose architectural designs resemble the shape of the molecule.
+
+**Buckyfilm**: A frictionless surface comprised of buckyballs, nano-scale carbon-atom spheres in an electrical field matrix.
+
+**Buckyweave**: A type of material, immensely strong, consisting of woven, open-ended buckytubes—carbon atoms in tube form. The space elevator began as a buckyweave strap lowered from synchorbit to the top of Cayambe.
+
+**Burnout**: Popular term for a person burned out by drugs, drink, or BMI malfunction.
