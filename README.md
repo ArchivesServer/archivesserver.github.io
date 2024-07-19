@@ -10,14 +10,14 @@ The source material featured in this server imports official data to create a de
 
 # Content
 
-This lightweight server will contain text, code and limited image iconography only. This site will not contain large scale imagery or photography - Think of this server as the Kindle edition. Where necessary, this server can include relevant links to and/or suitable embeded imagery from official sources.
+This lightweight server will contain text, code and limited image iconography only. This site will not contain large scale imagery or photography - Think of this server as the Kindle edition. Where necessary, this server can include relevant links to official sources.
 
 # Netrunner card array
 
-To provide a consistant visual theme for this server, card images from Netrunner DB will be linked to each article - prioritising the latest NSG cards where possible.
+To provide a consistant visual theme for this server, themed card images from Netrunner DB will be embedded to the bottom of each article - prioritising the latest NSG cards where possible.
 
 ### Netrunner card array DB
-Track and monitor the cards used throughout this server: https://app.teable.io/share/shrYE602jQrOh9triez/view
+Track and monitor the Netrunner cards used throughout this server: https://app.teable.io/share/shrYE602jQrOh9triez/view
 
 ### Netrunner card image source
 https://netrunnerdb.com
