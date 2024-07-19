@@ -10,7 +10,7 @@ Legendary hackers known as “runners” aim to fight the corps’ influence by 
 
 Can the Runner see through the Corp’s bluffs and emerge victorious from their netspace siege, or will the Corp tighten their grip upon the world? Find out by playing Netrunner.
 
-Learn more by visiting: https://nullsignal.games
+Learn more by visiting: https://nullsignal.games 
 
 [![card](https://card-images.netrunnerdb.com/v2/large/07035.jpg)](https://netrunnerdb.com/en/card/07035)  
 ![Static Badge](https://img.shields.io/badge/Netrunner_card_array-NetrunnerDB.com-blue?style=flat)
