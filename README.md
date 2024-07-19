@@ -19,7 +19,7 @@ To provide a consistant visual theme for this server, card images from Netrunner
 ### Netrunner card array DB
 Track and monitor the cards used throughout this server: https://app.teable.io/share/shrYE602jQrOh9triez/view
 
-### Netrunner card images
+### Netrunner card image source
 https://netrunnerdb.com
 
 # Website
