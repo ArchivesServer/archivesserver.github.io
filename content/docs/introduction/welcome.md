@@ -3,8 +3,8 @@ weight: 120
 title: "Welcome to the Future"
 description: "From the highest peak on the equator, at the heart of the greatest and worst city Earth has ever known, a nanolattice weave of carbon fibers stretches to the heavens: the Beanstalk."
 icon: "Save"
-date: "2024-07-14T08:16:13+01:00"
-lastmod: "2024-07-14T08:16:13+01:00"
+date: "2024-07-14T00:00:00+00:00"
+lastmod: "2024-07-14T00:00:00+00:00"
 ---
 The giant space elevator transformed the solar system into a new frontier of opportunity. A city was built on the Moon, and Mars was colonized. Around the base of the Bean-stalk grew the megapolis of New Angeles, officially home to half a billion people (and perhaps as many more unofficially), and the headquarters for the megacorporations that created the Network, the arcologies, and the androids.
 
@@ -15,4 +15,4 @@ Androids intelligent synthetic life-forms walk the streets and work the jobs too
 And there’s more of them every year.  
   
 [![](https://card-images.netrunnerdb.com/v2/large/25136.jpg)](https://netrunnerdb.com/en/card/25136)  
-![Static Badge](https://img.shields.io/badge/Netrunner_card_array-NetrunnerDB.com-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/Netrunner_Card_Array-NetrunnerDB.com-blue?style=flat)
