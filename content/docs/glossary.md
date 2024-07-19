@@ -23,7 +23,7 @@ draft: false
 
 **Arcology or “ark”**: A “city-in-a-building.” Tall structures, rising as much as a thousand stories or more, sometimes called “towers.” Arcologies house a community complete with offices, schools, shops, malls, an internal security force, and everything else required for living. Generally used by upper-middle class to upper class, arks are a feature of all megacities, including New Angeles. Often resented by lower classes, who aren’t allowed inside.
 
- **AI (Artificial intelligence)**: Createdintelligence, usually in the form of a machine or program. So-called “weak” AI (also known as “simulated intel-ligence” or “SI”), while sophisticated and sometimes convincingly realistic, falls short of true human-level intellect. “Strong” AI, or true intelligence, is currently only possible by utilizing brainmapping technology to emulate a human brain. Androids are the primary application of strong AI.
+**AI (Artificial intelligence)**: Createdintelligence, usually in the form of a machine or program. So-called “weak” AI (also known as “simulated intel-ligence” or “SI”), while sophisticated and sometimes convincingly realistic, falls short of true human-level intellect. “Strong” AI, or true intelligence, is currently only possible by utilizing brainmapping technology to emulate a human brain. Androids are the primary application of strong AI.
 
 ## B
 
@@ -31,8 +31,7 @@ draft: false
 
 **Bangers, also “streetbangers”**: Youth gangs common in the megacities. Often engaged in criminal activity, especially illicit drugs and sexies, and may go on crime sprees just for thrills.
 
-**Beanstalk, aka “New Angeles Space Ele-
-vator”**: An approximately 72,000km tall elevator construct tethered in New Angeles. Its stations include the Root (aka “Earth Station”), Midway, and the Castle (aka “Challenger Planetoid”). A cost-effective way to reach Earth orbit and points beyond. Named for the story of Jack and the Beanstalk and the man who built it, Jack Weyland.
+**Beanstalk, aka “New Angeles Space Elevator”**: An approximately 72,000km tall elevator construct tethered in New Angeles. Its stations include the Root (aka “Earth Station”), Midway, and the Castle (aka “Challenger Planetoid”). A cost-effective way to reach Earth orbit and points beyond. Named for the story of Jack and the Beanstalk and the man who built it, Jack Weyland.
 
 **Bioplas**: Biodegradable plastic commonly used in packaging and disposables.
 
@@ -40,7 +39,7 @@ vator”**: An approximately 72,000km tall elevator construct tethered in New An
 
 **Blackout, the**: A period of global disruption to regional networks that precipitated a sharp market downturn. The more secure architecture of SYNC’s Network eventually replaced the Internet as a result.
 
-**Brain-machine interface or “BMI”**: A device that allows direct communication between a user’s brain and a computer system. Commonly in the
+**BMI (Brain-machine interface)**: A device that allows direct communication between a user’s brain and a computer system. Commonly in the
 form of a so-called “brain-net” (for a wearable BMI) or a “skulljack” (a BMI cybernetically implanted in the user’s brain). BMIs are a new technology originally developed by the military. The first consumer-grade models are just entering the marketplace, and they are most popular among Netcriminals and the younger generation.
 
 **Brainmapping and braintaping**: Brain mapping technology was developed to scan the human brain to aid with the diagnosis and study of brain disorders. It has now become a general term for brain scans of many types. Braintaping is a specialized, extremely detailed application of brainmapping technology that allows the user to develop a working (but currently imperfect) copy of the original brain. Both technologies are essential for the creation of strong AI and androids.
@@ -51,6 +50,34 @@ form of a so-called “brain-net” (for a wearable BMI) or a “skulljack” (a
 
 **Buckyfilm**: A frictionless surface comprised of buckyballs, nano-scale carbon-atom spheres in an electrical field matrix.
 
-**Buckyweave**: A type of material, immensely strong, consisting of woven, open-ended buckytubes—carbon atoms in tube form. The space elevator began as a buckyweave strap lowered from synchorbit to the top of Cayambe.
+**Buckyweave**: A type of material, immensely strong, consisting of woven, open-ended buckytubes - carbon atoms in tube form. The space elevator began as a buckyweave strap lowered from synchorbit to the top of Cayambe.
 
 **Burnout**: Popular term for a person burned out by drugs, drink, or BMI malfunction.
+
+## C
+
+**Camdrone**: Weak AI–powered drones with holo/threedee recording capabilities. Deployed by NBN to supplement its surveillance network and get Netcast-quality footage.
+
+**Chatspace**: A virtual space where remote users can meet and chat comfortably. May or may not be fully rendered as a virtual environment.
+
+**Chromehead**: A member of a subculture devoted to ostentatious cyberware as a fashion statement.
+
+**Cleansuit**: Smartsuit used to avoid contamination in either direction, e.g. for doctors treating infected patients, or for police personnel investigating a crime scene.
+
+**Clone**: A type of android manufactured by Jinteki Biotech. Clones are organic beings with largely human DNA and are customized for a variety of purposes. Despite their organic nature, they are classified as machines.
+
+**Clone-tel**: A slang term, derived from “hotel for clones,” for the nicer, more expensive version of clone barracks.
+
+**Comm**: Short for radio communication.
+
+**Constructorbot**: A generic term for construction robots, usually non-android and most often in space, used in large projects such as the Beanstalk.
+
+**Credaccount**: The common name for a bank account, which is accessed electronically by readers. “Bank account” implies a physical building - a bank - while most financial transactions and records are purely electronic.
+
+**Credit**: Usually refers to the Titan Trans national Credit, a corporate-backed multinational virtual currency. Can also be used broadly to mean money in general.
+
+**Cybernetic, also cyberware**: Although still sometimes used in its archaic sense (especially among academics), the term generally refers to machinery designed to be implanted in the human body, either to replace or to augment organs, limbs, and other body parts. Can be used as an adjective (as in “cybernetic heart”) or as a noun (as in “the organ grinders removed his cybernetics”).
+
+**Cyberspace**: A broad term for the state of mind runners and other BMI-users experience when they directly interface with the code behind the Network. Compare “meatspace.”
+
+**Cyborg**: Slang term for a person with cybernetic implants.
