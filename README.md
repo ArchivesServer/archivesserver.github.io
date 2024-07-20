@@ -14,7 +14,7 @@ This lightweight server will contain text, code and limited image iconography on
 
 # Netrunner Card Array
 
-The Netrunner Card Array features at the bottom of each article on this server. This provides a consistant visual theme, by displaying Netrunner card images from NetrunnerDB, relevant to the article - prioritising the latest NSG cards where possible.
+The Netrunner Card Array features at the bottom of each article on this server. This provides a consistant visual theme, by displaying relevant Netrunner card images from NetrunnerDB - prioritising the latest NSG cards where possible.
 
 ### Netrunner Card Array DB
 Track and monitor the Netrunner cards used throughout this server: https://app.teable.io/share/shrYE602jQrOh9triez/view
