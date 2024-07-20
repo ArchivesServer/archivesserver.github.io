@@ -1,7 +1,7 @@
 ---
 weight: 130
 title: "What is Netrunner?"
-description: "Netrunner is a two-player asymmetric card game set in a dystopian future where four megacorporations control almost every aspect of daily life."
+description: "Netrunner is a two-player asymmetric card game set in the Android Universe, where four megacorporations control almost every aspect of daily life."
 icon: "Save"
 date: "2024-07-19T00:00:00+00:00"
 lastmod: "2024-07-19T00:00:00+00:00"
