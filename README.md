@@ -6,7 +6,7 @@ This open source server is a work-in-progress data library, containing Android U
 
 # R&D
 
-The source material featured in this server imports official data to create an online guide for the Android fictional universe and its unique vision of the future. This resource contains primary information and content that explores this thrilling cyberpunk world.
+The source material featured in this server imports official data to create an online guide for the Android fictional universe and its unique vision of the future. This resource is committed to include primary information and content only, that fully explores this thrilling cyberpunk world.
 
 # Content
 
