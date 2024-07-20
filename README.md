@@ -2,7 +2,7 @@
 
 This open source server is a work-in-progress data library, containing Android Universe and Netrunner source material.
 
-[![Static Badge](https://img.shields.io/badge/Archives_Server-ALPHA-MidnightBlue?style=flat)](https://archivesserver.github.io)
+[![Static Badge](https://img.shields.io/badge/Archives_Server-ALPHA-navy?style=flat)](https://archivesserver.github.io)
 
 # R&D
 
