@@ -17,4 +17,4 @@ Learn more by visiting: https://nullsignal.games
 The Netrunner Card Array (as displayed below) features at the bottom of each article on this server. This provides a consistant visual theme, by displaying relevant Netrunner card images from NetrunnerDB. The card text is mostly irrelevant and can be ignored... that is, unless you are a Netrunner fan.
 
 [![card](https://card-images.netrunnerdb.com/v2/large/07035.jpg)](https://netrunnerdb.com/en/card/07035)  
-![Static Badge]https://img.shields.io/badge/Netrunner_Card_Array-NetrunnerDB.com-darkblue?style=flat
+![Static Badge](https://img.shields.io/badge/Netrunner_Card_Array-NetrunnerDB.com-darkblue?style=flat)
