@@ -12,7 +12,7 @@ Can the Runner see through the Corp’s bluffs and emerge victorious from their 
 
 Learn more by visiting: https://nullsignal.games 
 
-![Static Badge](https://img.shields.io/badge/Netrunner_Card_Array-NetrunnerDB.com-navy?style=flat)
+![Static Badge](https://img.shields.io/badge/Netrunner_Card_Array-NetrunnerDB.com-darkblue?style=flat)
 
 The Netrunner Card Array (as displayed below) features at the bottom of each article on this server. This provides a consistant visual theme, by displaying relevant Netrunner card images from NetrunnerDB. The card text is mostly irrelevant and can be ignored... that is, unless you are a Netrunner fan.
 
