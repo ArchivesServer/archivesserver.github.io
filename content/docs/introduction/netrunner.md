@@ -22,5 +22,5 @@ The Netrunner Array installed at the end of each article on this server (as disp
 
 Read more about the Netrunner Array on [Github](https://github.com/ArchivesServer/archivesserver.github.io/tree/main#netrunner-card-array)
 
-[![card](https://nrdb.reteki.fun/card_image//large/07036.jpg)](https://nrdb.reteki.fun/en/card/07036)  
+[![card](./assets/cards/07036-AS.jpg)](https://nrdb.reteki.fun/en/card/07036)
 ![Static Badge](https://custom-icon-badges.demolab.com/badge/Netrunner_Array-Archives_Server-blue?style=flat&logo=cpu)
