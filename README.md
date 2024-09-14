@@ -12,9 +12,9 @@ The Archives Server is an open source (work-in-progress) unofficial data library
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/Open_Source-Non_profit-darksalmon?style=flat" alt="">
-<img src="https://img.shields.io/badge/Unofficial-Fansite-teal?style=flat" alt="">
-<a href="https://archivesserver.github.io"><img src="https://custom-icon-badges.demolab.com/badge/Archives_Server-ALPHA-steelblue?style=flat&logo=archives_nic-cu_dark" alt=""></a>
+<img src="https://img.shields.io/badge/Open_Source-Non_profit-firebrick?style=flat" alt="">
+<img src="https://img.shields.io/badge/Unofficial-Fansite-royalblue?style=flat" alt="">
+<a href="https://archivesserver.github.io"><img src="https://custom-icon-badges.demolab.com/badge/Archives_Server-ALPHA-lightskyblue?style=flat&logo=archives_nic-cu_dark" alt=""></a>
 </p>
 
 <p><br></p>
