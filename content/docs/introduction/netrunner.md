@@ -14,7 +14,7 @@ Can the Runner see through the Corp’s bluffs and emerge victorious from their 
 
 [Null Signal Games (NSG)](https://nullsignal.games)
 
-[The Netrunner Reboot Project](http://about.reteki.fun)
+[The Netrunner Reboot Project](http://about.reteki.fun)  
 
 ![Static Badge](https://custom-icon-badges.demolab.com/badge/Netrunner_Array-Archives_Server-blue?style=flat&logo=cpu)
 
