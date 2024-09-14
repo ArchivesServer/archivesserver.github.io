@@ -13,6 +13,6 @@ Humans have come a long way since the dark ages. Cybernetic implants, gene thera
 Androids intelligent synthetic life-forms walk the streets and work the jobs too dangerous or onerous for humans. They’re taking away jobs from flesh-and-blood workers, redefining what it means to be rich and poor - even challenging the definition of what it means to be human.
 
 And there’s more of them every year.  
-  
-[![](https://card-images.netrunnerdb.com/v2/large/25136.jpg)](https://netrunnerdb.com/en/card/25136)  
-![Static Badge](https://img.shields.io/badge/Netrunner_Card_Array-NetrunnerDB.com-blue?style=flat)
+
+[![card](https://raw.githubusercontent.com/ArchivesServer/archivesserver.github.io/main/assets/cards/08020-AS.jpg)](https://nrdb.reteki.fun/en/card/08020)  
+![Static Badge](https://custom-icon-badges.demolab.com/badge/Netrunner_Array-Archives_Server-blue?style=flat&logo=cpu)
