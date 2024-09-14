@@ -21,13 +21,7 @@ The Archives Server is an open source (work-in-progress) unofficial data library
 
 # R&D
 
-The source material featured on this server imports official data to create an online guide for the Android fictional universe and its unique vision of the future. This resource is committed to include primary information and content only, that fully explores this thrilling cyberpunk world.
-
-<p><br></p>
-
-# Content
-
-This lightweight server will contain text, code and limited image iconography only. This site will not contain large scale imagery or photography (excluding the Netrunner Array) - Think of this server as the Kindle edition. Where necessary, this server can include relevant links to official sources.
+The source material featured on this server imports official data to create an online guide for the Android fictional universe and its unique vision of the future. This resource includes primary information and content only, that fully explores this thrilling cyberpunk world.
 
 <p><br></p>
 
@@ -58,12 +52,6 @@ Theme: https://lotusdocs.dev
 https://shields.io
 
 https://custom-icon-badges.demolab.com
-
-<p><br></p>
-
-# About
-
-I am a long time table-top gamer and tech geek, that loves exploring new games and technology. Which is why the subject matter of this server appeals to me so much. As I begin this adventure digging deeper into the lore of Android and Netrunner, this server will document my journey and provide an ongoing resource for others. I don't know how long this will take or whether it will ever be completed, but I'm looking forward to the discoveries along the way... while also learning more about Git, markdown and static site generators.
 
 <p><br></p>
 
