@@ -14,7 +14,7 @@ enableGitInfo = true # N.B. .GitInfo does not currently function with git submod
 [params]
 
 [params.footer]
-        copyright = "Android & Netrunner © Fantasy Flight Games. Site not affiliated with Fantasy Flight Games."
+        copyright = "Android & Netrunner © Fantasy Flight Games (FFG). Site not endorsed or affiliated with Fantasy Flight Games."
         # version = true # includes git commit info
 
 [params.social]
