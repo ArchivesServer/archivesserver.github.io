@@ -16,11 +16,11 @@ Can the Runner see through the Corp’s bluffs and emerge victorious from their 
 
 [The Netrunner Reboot Project](http://about.reteki.fun)
 
-[![Static Badge](https://custom-icon-badges.demolab.com/badge/Netrunner_Array-Archives_Server-blue?style=flat&logo=cpu)](https://archivesserver.github.io/docs/introduction/netrunner)
+![Static Badge](https://custom-icon-badges.demolab.com/badge/Netrunner_Array-Archives_Server-blue?style=flat&logo=cpu)
 
 The Netrunner Array installed at the end of each article on this server (as displayed below), provides a consistent Android Universe visual theme. The Netrunner Array imports related Netrunner card imagery from online Netrunner card databases. The card text is mostly irrelevant and can be ignored... that is, unless you are a Netrunner fan.
 
 Read more about the Netrunner Array on [Github](https://github.com/ArchivesServer/archivesserver.github.io/tree/main#netrunner-card-array)
 
 [![card](https://nrdb.reteki.fun/card_image//large/07036.jpg)](https://nrdb.reteki.fun/en/card/07036)  
-[![Static Badge](https://custom-icon-badges.demolab.com/badge/Netrunner_Array-Archives_Server-blue?style=flat&logo=cpu)](https://archivesserver.github.io/docs/introduction/netrunner)
+![Static Badge](https://custom-icon-badges.demolab.com/badge/Netrunner_Array-Archives_Server-blue?style=flat&logo=cpu)
