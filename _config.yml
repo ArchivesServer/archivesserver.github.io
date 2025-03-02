@@ -9,5 +9,7 @@ favicon_ico: "/assets/images/favicon.ico"
 
 color_scheme: foo
 
+nav_enabled: true
+
 aux_links:
   Github: https://github.com/ArchivesServer/archivesserver.github.io
