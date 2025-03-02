@@ -1,5 +1,6 @@
 ---
 title: Netrunner
+layout: default
 nav_order: 2
 ---
 # Netrunner
