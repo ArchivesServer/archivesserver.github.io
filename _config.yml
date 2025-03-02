@@ -14,7 +14,7 @@ nav_enabled: true
 aux_links:
   Github: https://github.com/ArchivesServer/archivesserver.github.io
 
-  callouts_level: quiet # or loud
+callouts_level: quiet # or loud
 callouts:
   highlight:
     color: yellow
