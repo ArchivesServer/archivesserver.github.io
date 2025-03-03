@@ -6,38 +6,10 @@ nav_order: 1000
 ---
 # Glossary
 
-<table>
-<tbody>
-<tr>
-  <td><a href="/#a">A</a></td>
-  <td><a href="/#b">B</a></td>
-  <td><a href="/#c">C</a></td>
-  <td><a href="/#d">D</a></td>
-  <td><a href="/#e">E</a></td>
-  <td><a href="/#f">F</a></td>
-  <td><a href="/#g">G</a></td>
-  <td><a href="/#h">H</a></td>
-  <td><a href="/#i">I</a></td>
-  <td><a href="/#j">J</a></td>
-  <td><a href="/#k">K</a></td>
-  <td><a href="/#l">L</a></td>
-</tr>
-<tr>
-  <td><a href="/#m">M</a></td>
-  <td><a href="/#n">N</a></td>
-  <td><a href="/#o">O</a></td>
-  <td><a href="/#p">P</a></td>
-  <td><a href="/#q">Q</a></td>
-  <td><a href="/#r">R</a></td>
-  <td><a href="/#s">S</a></td>
-  <td><a href="/#t">T</a></td>
-  <td><a href="/#u">U</a></td>
-  <td><a href="/#v">V</a></td>
-  <td><a href="/#w">W</a></td>
-  <td><a href="/#y">Y</a></td>
-</tr>
-</tbody>
-</table>
+| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) |
+|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) |         |
+
 
 ## A
 
