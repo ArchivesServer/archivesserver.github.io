@@ -22,7 +22,7 @@ And there’s more of them every year.
 
 <div style="text-align: center; margin: 40px 0;">
   <a href="https://nrdb.reteki.fun/en/card/08020" target="_blank" style="display: inline-block;">
-    <img src="/assets/cards/08020-AS.jpg" alt="First Image" style="display: block; margin: 10px auto;" />
+    <img src="/assets/cards/08020-AS.jpg" alt="First Image" style="display: block; margin: 5px auto;" />
   </a>
-  <img src="https://custom-icon-badges.demolab.com/badge/Netrunner_Array-Archives_Server-blue?style=flat&logo=cpu" alt="Static Badge" style="display: block; margin: 0px auto 0;" />
+<img src="https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu" alt="Static Badge" style="display: block; margin: 0px auto 0;" />
 </div>
