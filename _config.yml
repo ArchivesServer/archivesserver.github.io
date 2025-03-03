@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://archivesserver.github.io
 
+permalink: pretty
+
 logo: "/assets/images/logo512.png"
 favicon_ico: "/assets/images/favicon.ico"
 
