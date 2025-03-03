@@ -14,9 +14,9 @@ Can the Runner see through the Corp’s bluffs and emerge victorious from their 
 
 ## Learn more about Netrunner
 
-[Null Signal Games (NSG)](https://nullsignal.games)
+- [Null Signal Games (NSG)](https://nullsignal.games)
 
-[The Netrunner Reboot Project](http://about.reteki.fun) 
+- [The Netrunner Reboot Project](http://about.reteki.fun) 
 
 {: .note-title }
 > Netrunner Array
