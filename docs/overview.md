@@ -18,7 +18,7 @@ Explore the worlds in the Android Universe as you’ve never seen them before in
 
 <div style="text-align: center; margin: 40px 0;">
   <a href="https://nrdb.reteki.fun/en/card/07044" target="_blank">
-    <img src="/assets/cards/07044-AS.jpg" alt="First Image" style="display: block; margin: 20px auto;" />
+    <img src="/assets/cards/07044-AS.jpg" alt="First Image" style="display: block; margin: 10px auto;" />
   </a>
   <img src="https://custom-icon-badges.demolab.com/badge/Netrunner_Array-Archives_Server-blue?style=flat&logo=cpu" alt="Static Badge" style="display: block; margin: 0px auto 0;" />
 </div>
