@@ -4,9 +4,9 @@ layout: home
 has_children: true
 nav_order: 0
 ---
+{: .no_toc }
 
 **The Archives Server is an open source (work-in-progress) unofficial data library, containing Android Universe and Netrunner source material.**
-{: .no_toc }
 
 # Welcome to the Future
 
