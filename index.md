@@ -6,11 +6,11 @@ nav_order: 0
 ---
 {: .no_toc }
 
-**The Archives Server is an open source (work-in-progress) unofficial data library, containing Android Universe and Netrunner source material.**
+## The Archives Server is an open source (work-in-progress) unofficial data library, containing Android Universe and Netrunner source material.
 
 # Welcome to the Future
 
-From the highest peak on the equator, at the heart of the greatest and worst city Earth has ever known, a nanolattice weave of carbon fibers stretches to the heavens: the Beanstalk.
+**From the highest peak on the equator, at the heart of the greatest and worst city Earth has ever known, a nanolattice weave of carbon fibers stretches to the heavens: the Beanstalk.**
 
 The giant space elevator transformed the solar system into a new frontier of opportunity. A city was built on the Moon, and Mars was colonized. Around the base of the Bean-stalk grew the megapolis of New Angeles, officially home to half a billion people (and perhaps as many more unofficially), and the headquarters for the megacorporations that created the Network, the arcologies, and the androids.
 
