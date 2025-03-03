@@ -30,7 +30,7 @@ And there’s more of them every year.
 <div style="text-align: center; margin: 40px 0;">
   <a href="https://nrdb.reteki.fun/en/card/08020" target="_blank" style="display: inline-block;">
     <img src="/assets/cards/08020-AS.jpg" alt="First Image" 
-         style="display: block; margin: 5px auto; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);" />
+         style="display: block; margin: 5px auto; box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);" />
   </a>
   <img src="https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu" 
        alt="Static Badge" 
