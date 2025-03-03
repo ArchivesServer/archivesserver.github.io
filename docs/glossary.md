@@ -6,10 +6,39 @@ nav_order: 1000
 ---
 # Glossary
 
-| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) |
-|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-| [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) |         |
-
+<div style="overflow-x: auto;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tbody>
+      <tr>
+        <td style="text-align: center; padding: 8px;"><a href="/#a">A</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#b">B</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#c">C</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#d">D</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#e">E</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#f">F</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#g">G</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#h">H</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#i">I</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#j">J</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#k">K</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#l">L</a></td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding: 8px;"><a href="/#m">M</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#n">N</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#o">O</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#p">P</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#q">Q</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#r">R</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#s">S</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#t">T</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#u">U</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#v">V</a></td>
+        <td style="text-align: center; padding: 8px;"><a href="/#w">W</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## A
 
