@@ -1,7 +1,8 @@
 ---
+parent: Welcome
 title: Netrunner
 layout: default
-nav_order: 2
+nav_order: 20
 ---
 # Netrunner
 
