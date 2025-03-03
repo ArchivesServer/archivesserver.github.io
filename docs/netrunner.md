@@ -25,8 +25,9 @@ Can the Runner see through the Corp’s bluffs and emerge victorious from their 
 > Read more about the Netrunner Array on [Github](https://github.com/ArchivesServer/archivesserver.github.io/tree/main#netrunner-card-array)
 
 <div style="text-align: center; margin: 40px 0;">
-  <a href="https://nrdb.reteki.fun/en/card/07036" target="_blank">
+  <a href="https://nrdb.reteki.fun/en/card/07036" target="_blank" style="display: inline-block;">
     <img src="/assets/cards/07036-AS.jpg" alt="First Image" style="display: block; margin: 10px auto;" />
   </a>
   <img src="https://custom-icon-badges.demolab.com/badge/Netrunner_Array-Archives_Server-blue?style=flat&logo=cpu" alt="Static Badge" style="display: block; margin: 0px auto 0;" />
 </div>
+
