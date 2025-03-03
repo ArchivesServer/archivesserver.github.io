@@ -10,10 +10,6 @@ nav_order: 0
 
 # Welcome to the Future
 
-{: .no_toc .text-delta }
-1. TOC
-{:toc}
-
 From the highest peak on the equator, at the heart of the greatest and worst city Earth has ever known, a nanolattice weave of carbon fibers stretches to the heavens: the Beanstalk.
 
 The giant space elevator transformed the solar system into a new frontier of opportunity. A city was built on the Moon, and Mars was colonized. Around the base of the Bean-stalk grew the megapolis of New Angeles, officially home to half a billion people (and perhaps as many more unofficially), and the headquarters for the megacorporations that created the Network, the arcologies, and the androids.
@@ -24,12 +20,9 @@ Androids intelligent synthetic life-forms walk the streets and work the jobs too
 
 And there’s more of them every year.
 
-# Overview
-
-Powerful megacorporations unlocked the technologies that revolutionized the lives of billions across Earth, Luna, and Mars—but at what cost?
-
-The rich are richer than ever before, living atop starscraper arcologies in the lap of luxury. Meanwhile, the poor scrape by in an underworld ruled by gangs and orgcrime. True artificial intelligence has opened the doors to synthetic life in the form of androids—clones and bioroids—while advances in cybernetic and genetic modification push the boundaries of what it means to be human.
-
-Not everyone shares the corporate vision for the future. Human First leads the fight to protect the jobs of flesh-and-blood workers from androids. In the colonies, Martian rebels struggle for self-determination in a planet-wide civil war. Cybercriminals use bleeding-edge technology to wage a war of information across the Network. But can they stand up to the might of Haas-Bioroid,Jinteki, NBN, and the Weyland Consortium?
-
-Explore the worlds in the Android Universe as you’ve never seen them before in this definitive guide.
+<div style="text-align: center;">
+  <a href="https://nrdb.reteki.fun/en/card/08020" target="_blank">
+    <img src="/assets/cards/08020-AS.jpg" alt="First Image" style="display: block; margin: 20px auto;" />
+  </a>
+  <img src="https://custom-icon-badges.demolab.com/badge/Netrunner_Array-Archives_Server-blue?style=flat&logo=cpu" alt="Static Badge" style="display: block; margin: 0px auto 0;" />
+</div>
