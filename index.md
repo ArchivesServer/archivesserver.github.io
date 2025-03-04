@@ -16,7 +16,7 @@ Enormous megacorporations, called Corps by most, influence every facet of daily 
 
 This Archives Server explores these corps and their most visionary innovations. It explores what technological advances and extraterrestrial expansion mean to a human population that no longer resides exclusively on Earth. And it explores the question of what it means to be human in a world filled with clones, bioroids, and other forms of artificial intelligence.
 
-## It Is the Future. The World Changed. People Did Not.
+## It is the Future. The World Changed. People Did Not.
 
 The not-too-distant future detailed within this server features technology that may appear miraculous by present-day standards, but as with much of the best science fiction, the setting consistently aims toward the plausibility that originates from a seed of truth.
 
