@@ -365,5 +365,5 @@ the Moon as mass transit. Tube-lev trains are extremely fast because their tunne
     <a href="https://nrdb.reteki.fun/en/card/02106" target="_blank">
         <img src="https://nrdb.reteki.fun/card_image/small/02106.jpg" alt="card" class="card" />
     </a>
-    <img src="https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu" alt="Static Badge" class="array-badge" />
+    <div class="array-badge"></div>
 </div>
