@@ -7,7 +7,8 @@ nav_order: 0
 {: .no_toc }
 
 <center>
-<img src="/assets/images/archives-server.png" alt="logo" />    
+<img src="/assets/images/archives-server.png" alt="logo" /> 
+Unnofficial source material for the Android Universe
 </center>
 
 # Introduction
