@@ -32,9 +32,9 @@ There is no longer a single world that serves as the center of the Android unive
 
 These stories, the questions they raise, and the information they provide about the not-too-distant future will naturally appeal to fans of Android: Netrunner and the Android board game, but they should also be of interest to anyone who has ever asked himself or herself where our advances in technology may lead us, and what our futures may hold. Explore these questions, and explore the future’s infinite frontiers within the Archives Server.
 
-<div style="text-align: center; margin: 40px 0;">
-  <a href="https://nrdb.reteki.fun/en/card/07044" target="_blank" style="display: inline-block;">
-    <img src="/assets/cards/07044-AS.jpg" alt="First Image" style="display: block; margin: 5px auto;" />
-  </a>
-<img src="https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu" alt="Static Badge" style="display: block; margin: 0px auto 0;" />
+<div class="netrunner-array">
+    <a href="https://nrdb.reteki.fun/en/card/07044" target="_blank">
+        <img src="https://nrdb.reteki.fun/card_image/small/07044.jpg" alt="card" class="card" />
+    </a>
+    <div class="array-badge"></div>
 </div>
