@@ -8,7 +8,7 @@ nav_order: 0
 
 # Introduction
 
-**The open source Archives Server is your definitive guide to the Android setting and its unique vision of the future. This unofficial fanmade data library provides essential source material and showcases the fictional universe made famous by Android: Netrunner and the Android board game.**
+**The open source Archives Server is your definitive guide to the Android setting and its unique vision of the future. This unofficial data library provides essential source material and showcases the fictional universe made famous by Android: Netrunner and the Android board game.**
 
 Mankind has spread itself out across the solar system with varying degrees of success. The Moon and Mars are colonized. A plan to terraform Mars is well underway, hindered only by a civil war that has broken out on that planet. On Earth, a massive space elevator has been built, stretching up into the sky. It is the hub of trade in the solar system, and most people refer to it as the “Beanstalk.”
 
