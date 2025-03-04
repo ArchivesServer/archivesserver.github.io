@@ -6,6 +6,10 @@ nav_order: 0
 ---
 {: .no_toc }
 
+<center>
+<img src="/assets/images/archives-server.png" alt="logo" />    
+</center>
+
 # Introduction
 
 **The open source Archives Server is your definitive guide to the Android setting and its unique vision of the future. This unofficial data library provides essential source material and showcases the fictional universe made famous by Android: Netrunner and the Android board game.**
