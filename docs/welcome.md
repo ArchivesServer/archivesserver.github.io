@@ -18,9 +18,9 @@ Androids intelligent synthetic life-forms walk the streets and work the jobs too
 
 And there’s more of them every year.
 
-<div style="text-align: center; margin: 40px 0;">
-  <a href="https://nrdb.reteki.fun/en/card/08020" target="_blank" style="display: inline-block;">
-    <img src="/assets/cards/08020-AS.jpg" alt="First Image" style="display: block; margin: 5px auto;" />
-  </a>
-<img src="https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu" alt="Static Badge" style="display: block; margin: 0px auto 0;" />
+<div class="netrunner-array">
+    <a href="https://nrdb.reteki.fun/en/card/08020" target="_blank">
+        <img src="https://nrdb.reteki.fun/card_image/small/08020.jpg" alt="card" class="card" />
+    </a>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu" alt="Static Badge" class="array-badge" />
 </div>
