@@ -27,5 +27,5 @@ Read more about the Netrunner Array on [Github](https://github.com/ArchivesServe
     <a href="https://nrdb.reteki.fun/en/card/07036" target="_blank">
         <img src="https://nrdb.reteki.fun/card_image/small/07036.jpg" alt="card" class="card" />
     </a>
-    <div class="array-badge">
+    <div class="array-badge"></div>
 </div>
