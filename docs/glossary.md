@@ -2,7 +2,7 @@
 title: Glossary
 layout: default
 has_children: false
-nav_order: 1000
+nav_order: 900
 ---
 # Glossary
 
