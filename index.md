@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Introduction
 layout: home
 has_children: true
 nav_order: 0
@@ -8,7 +8,7 @@ nav_order: 0
 
 The Archives Server is an open source (work-in-progress) unofficial data library, containing Android Universe and Netrunner source material.
 
-# Welcome to the Future
+# Introduction
 
 **From the highest peak on the equator, at the heart of the greatest and worst city Earth has ever known, a nanolattice weave of carbon fibers stretches to the heavens: the Beanstalk.**
 
