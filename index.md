@@ -9,7 +9,8 @@ nav_order: 0
 <center>
 <img src="/assets/images/archives-server.png" alt="logo" /> 
 
-**Unnofficial source material for the Android Universe**
+**Open source data library for the Android Universe**
+
 </center>
 <br> 
 
