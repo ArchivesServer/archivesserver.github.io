@@ -6,23 +6,35 @@ nav_order: 0
 ---
 {: .no_toc }
 
-The Archives Server is an open source (work-in-progress) unofficial data library, containing Android Universe and Netrunner source material.
-
 # Introduction
 
-**From the highest peak on the equator, at the heart of the greatest and worst city Earth has ever known, a nanolattice weave of carbon fibers stretches to the heavens: the Beanstalk.**
+**The open source Archives Server is your definitive guide to the Android setting and its unique vision of the future. This unofficial fanmade data library provides essential source material and showcases the fictional universe made famous by Android: Netrunner and the Android board game.**
 
-The giant space elevator transformed the solar system into a new frontier of opportunity. A city was built on the Moon, and Mars was colonized. Around the base of the Bean-stalk grew the megapolis of New Angeles, officially home to half a billion people (and perhaps as many more unofficially), and the headquarters for the megacorporations that created the Network, the arcologies, and the androids.
+Mankind has spread itself out across the solar system with varying degrees of success. The Moon and Mars are colonized. A plan to terraform Mars is well underway, hindered only by a civil war that has broken out on that planet. On Earth, a massive space elevator has been built, stretching up into the sky. It is the hub of trade in the solar system, and most people refer to it as the “Beanstalk.”
 
-Humans have come a long way since the dark ages. Cybernetic implants, gene therapy, and AI in every pocket ensure that life is pleasant, convenient, and long for those who can afford it. But beneath the cracks in the veneer there’s still poverty, crime, and war, and dozens of societal scapegoats.
+Enormous megacorporations, called Corps by most, influence every facet of daily life: food, threedee, music, career choices. Jinteki and Haas-Bioroid redefine life itself, making clones and bioroids with braintaped, artificially intelligent minds. The Weyland Consortium owns a piece of everything that goes up or down the Beanstalk, and everything goes up or down the Beanstalk. Finally, NBN shapes what you think and dream, with the most extensive media network ever conceived on Earth under their control.
 
-Androids intelligent synthetic life-forms walk the streets and work the jobs too dangerous or onerous for humans. They’re taking away jobs from flesh-and-blood workers, redefining what it means to be rich and poor - even challenging the definition of what it means to be human.
+This Archives Server explores these corps and their most visionary innovations. It explores what technological advances and extraterrestrial expansion mean to a human population that no longer resides exclusively on Earth. And it explores the question of what it means to be human in a world filled with clones, bioroids, and other forms of artificial intelligence.
 
-And there’s more of them every year.
+## It Is the Future. The World Changed. People Did Not.
+
+The not-too-distant future detailed within this server features technology that may appear miraculous by present-day standards, but as with much of the best science fiction, the setting consistently aims toward the plausibility that originates from a seed of truth.
+
+More importantly, there's one element that's immediately recognizable within the Android setting - its vision of humanity. In essence, humanity remains unchanged; humanity's circumstances have changed, but human nature has not. Accordingly, we see ourselves within the people of Android, we identify with one or another of its many fictional figures, and we are motivated to pursue the answers to the questions they ask.
+
+As much as it is an exploration of futuristic technologies, locations, events, and cultures, The Worlds of Android is an engaging reflection on what it means to be human. And not just what it means to be some generic "human," but what it means to be an individual within a world that all its possibilities have enabled. What freedoms would we enjoy? What luxuries? What responsibilities would we have? At their core, the Android universe and the games set within it challenge us to consider both the largest of scales and the most intimately personal. It is a setting of vast economic forces filtered down to the level of a single individual.
+
+## Infinite Frontiers
+
+The world has changed. Humanity has settled distant planets. We have shared the spark of life with clones and machines. Our horizon stretches outward into the distant reaches of the solar system and inward to the virtual worlds where we engage in business, pleasure, and criminal endeavors.
+
+There is no longer a single world that serves as the center of the Android universe, there is no singular definition of what is human, and no single voice can possibly represent its future. The Worlds of Android therefore provides plentiful perspectives, documents, conversations, images, and stories to convey the tremendous, numberless variety of future experiences.
+
+These stories, the questions they raise, and the information they provide about the not-too-distant future will naturally appeal to fans of Android: Netrunner and the Android board game, but they should also be of interest to anyone who has ever asked himself or herself where our advances in technology may lead us, and what our futures may hold. Explore these questions, and explore the future’s infinite frontiers within the Archives Server.
 
 <div style="text-align: center; margin: 40px 0;">
-  <a href="https://nrdb.reteki.fun/en/card/08020" target="_blank" style="display: inline-block;">
-    <img src="/assets/cards/08020-AS.jpg" alt="First Image" style="display: block; margin: 5px auto;" />
+  <a href="https://nrdb.reteki.fun/en/card/07044" target="_blank" style="display: inline-block;">
+    <img src="/assets/cards/07044-AS.jpg" alt="First Image" style="display: block; margin: 5px auto;" />
   </a>
 <img src="https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu" alt="Static Badge" style="display: block; margin: 0px auto 0;" />
 </div>
