@@ -8,7 +8,7 @@ nav_order: 0
 
 <center>  
 <img src="/assets/images/archives-server.png" alt="logo" /> 
-
+<br>
 <b>Open source data library for the Android Universe</b>
 </center>
 <br> 
