@@ -6,11 +6,11 @@ nav_order: 0
 ---
 {: .no_toc }
 
-<center>  
-<img src="/assets/images/archives-server.png" alt="logo" /> 
-<p style="color: #4d60a8"><b>Open source data library for the Android Universe</b></p>
+<center style="margin-top: 0; padding-top: 0;">  
+    <img src="/assets/images/archives-server.png" alt="logo" /> 
+    <p class="fw-700 text-blue-200">>_Open source data library for the Android Universe</p>
 </center>
-<br> 
+<br>
 
 # Introduction
 
