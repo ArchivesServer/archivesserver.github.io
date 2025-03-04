@@ -361,9 +361,9 @@ the Moon as mass transit. Tube-lev trains are extremely fast because their tunne
 
 **Yellow Jackets**: Slang for Space Elevator Authority Security Forces. They wear bright yellow jumpsuits, hence the name. Sometimes disdainfully referred to as “elevator mercs” or “rent-a-cops.”
 
-<div style="text-align: center; margin: 40px 0;">
-  <a href="https://nrdb.reteki.fun/en/card/02106" target="_blank" style="display: inline-block;">
-    <img src="/assets/cards/02106-AS.jpg" alt="First Image" style="display: block; margin: 5px auto;" />
-  </a>
-<img src="https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu" alt="Static Badge" style="display: block; margin: 0px auto 0;" />
+<div class="netrunner-array">
+    <a href="https://nrdb.reteki.fun/en/card/02106" target="_blank">
+        <img src="https://nrdb.reteki.fun/card_image/small/02106.jpg" alt="card" class="card" />
+    </a>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu" alt="Static Badge" class="array-badge" />
 </div>
