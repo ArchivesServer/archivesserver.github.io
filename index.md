@@ -6,11 +6,10 @@ nav_order: 0
 ---
 {: .no_toc }
 
-<center>
+<center>  
 <img src="/assets/images/archives-server.png" alt="logo" /> 
 
-**Open source data library for the Android Universe**
-
+<b>Open source data library for the Android Universe</b>
 </center>
 <br> 
 
