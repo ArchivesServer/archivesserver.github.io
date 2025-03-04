@@ -39,5 +39,5 @@ Attacks against androids are not considered a high priority by many law enforcem
     <a href="https://nrdb.reteki.fun/en/card/01058" target="_blank">
         <img src="https://nrdb.reteki.fun/card_image/small/01058.jpg" alt="card" class="card" />
     </a>
-    <img src="https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu" alt="Static Badge" class="array-badge" />
+    <div class="array-badge"></div>
 </div>
