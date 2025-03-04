@@ -35,9 +35,9 @@ With more and more people being put out of work by android replacements, a growi
 
 Attacks against androids are not considered a high priority by many law enforcement agencies. Because they are manufactured synthetically, androids are classifed as property, not people, so any violence inficted on them is mere vandalism, not assault or murder. However, this has not stopped simulant rights groups like the Liberty Society from trying to get androids recognized as true human beings in the eyes of the law and society. Unfortunately for them, both Haas-Bioroid and Jinteki have a stake in maintaining their bottom line, and by extension, the status quo.
 
-<div style="text-align: center; margin: 40px 0;">
-  <a href="https://nrdb.reteki.fun/en/card/01058" target="_blank" style="display: inline-block;">
-    <img src="https://nrdb.reteki.fun/card_image/small/01058.jpg" alt="First Image" style="display: block; margin: 5px auto;" />
-  </a>
-<img src="https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu" alt="Static Badge" style="display: block; margin: 0px auto 0;" />
+<div class="netrunner-array">
+    <a href="https://nrdb.reteki.fun/en/card/01058" target="_blank">
+        <img src="https://nrdb.reteki.fun/card_image/small/01058.jpg" alt="card" class="card" />
+    </a>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu" alt="Static Badge" class="array-badge" />
 </div>
