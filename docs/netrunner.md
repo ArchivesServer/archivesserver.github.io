@@ -19,6 +19,7 @@ Can the Runner see through the Corp’s bluffs and emerge victorious from their 
 - [The Netrunner Reboot Project](http://about.reteki.fun) 
 
 <br>
+
 {: .note-title }
 > Netrunner Array
 >
