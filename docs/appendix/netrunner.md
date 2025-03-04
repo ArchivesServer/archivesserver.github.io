@@ -6,7 +6,7 @@ nav_order: 10
 ---
 # Netrunner
 
-**Netrunner is a two-player card game set in the Android Universe, the game pits a megacorporation and its massive resources against the subversive talents of lone runners.**
+Netrunner is a two-player card game set in the Android Universe, the game pits a megacorporation and its massive resources against the subversive talents of lone runners.
 
 Legendary hackers known as “runners” aim to fight the corps’ influence by hacking into their servers and preventing them from advancing their sinister agendas.
 
