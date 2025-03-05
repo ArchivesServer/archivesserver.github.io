@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
->_Open source data library for the Android Universe
+<b>>_Open source data library for the Android Universe</b>
 </p>
 
 <p><br></p>
