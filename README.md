@@ -20,7 +20,7 @@ The imported source material on this server serves as a comprehensive online gui
 
 # Netrunner Array
 
-[![Static Badge](https://custom-icon-badges.demolab.com/badge/Netrunner_Array-Archives_Server-blue?style=flat&logo=cpu)](https://archivesserver.github.io/docs/introduction/netrunner)
+[![Static Badge](https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu)](https://archivesserver.github.io/docs/appendix/netrunner)
 
 The Netrunner Array will be installed at the end of each article on this server to provide a consistent Android Universe visual theme. The Netrunner Array imports related Netrunner card imagery from online Netrunner card databases. The card text is mostly irrelevant and can be ignored... that is, unless you are a Netrunner fan.
 
@@ -33,7 +33,7 @@ https://nrdb.reteki.fun
 Reteki DB offers high quality image files along with all the original Android Netrunner cards to explore the lore further.
 
 Active image links for the Netrunner Array utilize the "small" card size URL tag, eg. 
-https://nrdb.reteki.fun/card_image/small/{CARD}.jpg
+nrdb.reteki.fun/card_image/small/{CARD}.jpg
 
 <p><br></p>
 
