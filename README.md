@@ -12,8 +12,7 @@
 <br>
 https://archivesserver.github.io
 <br><br>
-<img src="https://custom-icon-badges.demolab.com/badge/Disk_Usage-3.37%25-royalblue.svg?logo=database&logoSource=feather" alt="">
-
+<img src="https://custom-icon-badges.demolab.com/badge/Disk_Usage-3.37%25-royalblue.svg?logo=database&logoSource=feather" alt="" style="pointer-events: none;">
 </p>
 
 <p><br></p>
