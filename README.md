@@ -1,10 +1,11 @@
 <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/images/archives-server_dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="assets/images/archives-server_light.png">
-      <img alt="NIC" src="assets/images/nic-light.png" style="max-width: 100%;">
-    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/images/archives-server_dark.png" width="500" height="auto">
+      <source media="(prefers-color-scheme: light)" srcset="assets/images/archives-server_light.png" width="500" height="auto">
+      <img alt="NIC" src="assets/images/nic-light.png" width="500" height="auto">
+    </picture>
 </p>
+
 
 <p align="center">
 <b>>_Open source data library for the Android Universe</b>
