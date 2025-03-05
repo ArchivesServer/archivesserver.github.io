@@ -11,7 +11,9 @@
 <br>
 https://archivesserver.github.io
 <br><br>
+    <picture>
 <img src="https://custom-icon-badges.demolab.com/badge/System_Usage-03.37%25-royalblue.svg?logo=database&logoSource=feather" alt="" style="pointer-events: none;">
+    </picture>
 </p>
 
 <p><br></p>
