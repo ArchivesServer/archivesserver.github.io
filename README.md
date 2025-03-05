@@ -12,7 +12,7 @@
 <br>
 https://archivesserver.github.io
 <br><br>
-<img src="https://custom-icon-badges.demolab.com/badge/System_Usage-3.37%25-royalblue.svg?logo=database&logoSource=feather" alt="" style="pointer-events: none;">
+<img src="https://custom-icon-badges.demolab.com/badge/System_Usage-03.37%25-royalblue.svg?logo=database&logoSource=feather" alt="" style="pointer-events: none;">
 </p>
 
 <p><br></p>
@@ -48,7 +48,7 @@ https://archivesserver.github.io
 
 ### $Android_Universe
 
-- <a href="https://www.fantasyflightgames.com/en/products/the-worlds-of-android" target="_blank" onclick="window.open('about:blank', '_blank'); return false;">
+- <a href="https://www.fantasyflightgames.com/en/products/the-worlds-of-android" target="_blank">
         The Worlds of Android (FFG)</a><sup> OUT OF PRINT (2018)</sup>
 
 ### $Netrunner
