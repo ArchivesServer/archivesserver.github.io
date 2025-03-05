@@ -35,6 +35,9 @@ With more and more people being put out of work by android replacements, a growi
 
 Attacks against androids are not considered a high priority by many law enforcement agencies. Because they are manufactured synthetically, androids are classifed as property, not people, so any violence inficted on them is mere vandalism, not assault or murder. However, this has not stopped simulant rights groups like the Liberty Society from trying to get androids recognized as true human beings in the eyes of the law and society. Unfortunately for them, both Haas-Bioroid and Jinteki have a stake in maintaining their bottom line, and by extension, the status quo.
 
+{: .note-title }
+> Although “weak” or applied AI systems have been used for years in devices such as secretary software agents, none of these devices approached true human intelligence, or “strong” AI, until the creation of bioroids. The key to strong AI proved to be brainmapping, a technology originally developed to diagnose and study brain disorders.
+
 <div class="netrunner-array">
     <a href="https://nrdb.reteki.fun/en/card/01058" target="_blank">
         <img src="https://nrdb.reteki.fun/card_image/small/01058.jpg" alt="card" class="card" />
