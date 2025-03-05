@@ -20,7 +20,7 @@ https://archivesserver.github.io
 ## >_SYSTEM_DATA_UPLOAD
 
 - **IMPORT DATA**: ONGOING.
-- **SERVER FUNCTION**: ONLINE GUIDE TO ANDROID UNIVERSE.
+- **SERVER FUNCTION**: ANDROID UNIVERSE DATA LIBRARY.
 - **CONTENT SUMMARY**: CORE DATA ONLY.
 - **STATUS**: IMMERSIVE EXPLORATION READY.
 
@@ -28,18 +28,18 @@ https://archivesserver.github.io
 
 ## >_NETRUNNER_ARRAY
 
-- ADDED TO ARTICLE END FOR ANDROID THEME.
-- CARD IMAGES PULLED FROM: https://nrdb.reteki.fun
+- ADDED TO NODE FOR ANDROID THEME.
+- CARD IMAGE PULL: https://nrdb.reteki.fun
     - SYNTAX: nrdb.reteki.fun/card_image/small/{CARD}.jpg
 - NETRUNNER ARRAY DB: https://app.teable.io/share/shrYE602jQrOh9triez/view
-- ARTICLE: https://archivesserver.github.io/docs/appendix/netrunner
+- NODE: https://archivesserver.github.io/docs/appendix/netrunner
 
 <p><br></p>
 
 ## >_WEBSITE
 
 - SSG: https://jekyllrb.com
-- THEME: https://github.com/just-the-docs/just-the-docs
+- INTERFACE: https://github.com/just-the-docs/just-the-docs
 - BUTTONS: https://shields.io / https://custom-icon-badges.demolab.com
 
 <p><br></p>
