@@ -17,7 +17,7 @@ https://archivesserver.github.io
 
 <p><br></p>
 
-# >_SYSTEM_DATA_UPLOAD
+## >_SYSTEM_DATA_UPLOAD
 
 - **IMPORT DATA**: ONGOING.
 - **SERVER FUNCTION**: ONLINE GUIDE TO ANDROID UNIVERSE.
@@ -26,7 +26,7 @@ https://archivesserver.github.io
 
 <p><br></p>
 
-# >_NETRUNNER_ARRAY
+## >_NETRUNNER_ARRAY
 
 - ADDED TO ARTICLE END FOR ANDROID THEME.
 - CARD IMAGES PULLED FROM: https://nrdb.reteki.fun
@@ -36,7 +36,7 @@ https://archivesserver.github.io
 
 <p><br></p>
 
-# >_WEBSITE
+## >_WEBSITE
 
 - SSG: https://jekyllrb.com
 - THEME: https://github.com/just-the-docs/just-the-docs
@@ -44,12 +44,11 @@ https://archivesserver.github.io
 
 <p><br></p>
 
-# >_LEARN_MORE
+## >_LEARN_MORE
 
 ### $Android_Universe
 
-- <a href="https://www.fantasyflightgames.com/en/products/the-worlds-of-android" target="_blank">
-        The Worlds of Android (FFG)</a><sup> OUT OF PRINT (2018)</sup>
+- [The Worlds of Android (FFG)](https://www.fantasyflightgames.com/en/products/the-worlds-of-android) <sup>OUT OF PRINT (2018)</sup>
 
 ### $Netrunner
 
