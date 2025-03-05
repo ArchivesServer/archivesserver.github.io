@@ -29,7 +29,7 @@ https://archivesserver.github.io
 # >_NETRUNNER_ARRAY
 
 - ADDED TO ARTICLE END FOR ANDROID THEME.
-- CARD IMAGES PULLED FROM ONLINE DATABASE: https://nrdb.reteki.fun
+- CARD IMAGES PULLED FROM: https://nrdb.reteki.fun
     - SYNTAX: nrdb.reteki.fun/card_image/small/{CARD}.jpg
 - NETRUNNER ARRAY DB: https://app.teable.io/share/shrYE602jQrOh9triez/view
 - ARTICLE: https://archivesserver.github.io/docs/appendix/netrunner
@@ -46,20 +46,17 @@ https://archivesserver.github.io
 
 # >_LEARN_MORE
 
-### Android Universe
+### $Android_Universe
 
-#### Official 
-[The Worlds of Android (FFG)](https://www.fantasyflightgames.com/en/products/the-worlds-of-android) <sup>OUT OF PRINT (2018)</sup>
+- [The Worlds of Android (FFG)](https://www.fantasyflightgames.com/en/products/the-worlds-of-android) <sup>OUT OF PRINT (2018)</sup>
 
-### Netrunner
+### $Netrunner
 
-#### Official
-[Android Netrunner (FFG)](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game) <sup>OUT OF PRINT (2018)</sup>
+- [Android Netrunner (FFG)](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game) <sup>OUT OF PRINT (2018)</sup>
 
-#### Fan-run
-[Null Signal Games (NSG)](https://nullsignal.games)
-
-[The Netrunner Reboot Project](https://about.reteki.fun)
+### $Communities
+- [Null Signal Games (NSG)](https://nullsignal.games)
+- [The Netrunner Reboot Project](https://about.reteki.fun)
 
 <p><br></p>
 
