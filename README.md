@@ -17,46 +17,34 @@ https://archivesserver.github.io
 
 <p><br></p>
 
-# R&D
+# >_SYSTEM_DATA_UPLOAD
 
-The imported source material on this server serves as a comprehensive online guide to the Android fictional universe and its unique vision of the future. This resource includes essential information only, that fully explores this thrilling cyberpunk world.
-
-<p><br></p>
-
-# Netrunner Array
-
-[![Static Badge](https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu)](https://archivesserver.github.io/docs/appendix/netrunner)
-
-The Netrunner Array is installed at the end of each article on this server to provide a consistent Android Universe visual theme. The Netrunner Array imports related Netrunner card imagery from online Netrunner card databases. The card text is mostly irrelevant and can be ignored... that is, unless you are a Netrunner fan.
-
-### Netrunner Array DB
-Track and monitor the Netrunner cards used throughout this server: https://app.teable.io/share/shrYE602jQrOh9triez/view
-
-### Card Database
-https://nrdb.reteki.fun
-
-Reteki DB offers high quality image files along with all the original Android Netrunner cards to explore the lore further.
-
-Active image links for the Netrunner Array utilize the "small" card size URL tag, eg. 
-nrdb.reteki.fun/card_image/small/{CARD}.jpg
+- **IMPORT DATA**: ONGOING.
+- **SERVER FUNCTION**: ONLINE GUIDE TO ANDROID UNIVERSE.
+- **CONTENT SUMMARY**: CORE DATA ONLY.
+- **STATUS**: IMMERSIVE EXPLORATION READY.
 
 <p><br></p>
 
-# Website
+# >_NETRUNNER_ARRAY
 
-### Static Site Generator
-https://jekyllrb.com
-
-Theme: https://github.com/just-the-docs/just-the-docs
-
-### Buttons
-https://shields.io
-
-https://custom-icon-badges.demolab.com
+- ADDED TO ARTICLE END FOR ANDROID THEME.
+- CARD IMAGES PULLED FROM ONLINE DATABASE: https://nrdb.reteki.fun
+    - SYNTAX: nrdb.reteki.fun/card_image/small/{CARD}.jpg
+- NETRUNNER ARRAY DB: https://app.teable.io/share/shrYE602jQrOh9triez/view
+- ARTICLE: https://archivesserver.github.io/docs/appendix/netrunner
 
 <p><br></p>
 
-# Learn More
+# >_WEBSITE
+
+- SSG: https://jekyllrb.com
+- THEME: https://github.com/just-the-docs/just-the-docs
+- BUTTONS: https://shields.io / https://custom-icon-badges.demolab.com
+
+<p><br></p>
+
+# >_LEARN_MORE
 
 ### Android Universe
 
