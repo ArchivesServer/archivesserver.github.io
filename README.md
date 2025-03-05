@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-The open source Archives Server is an unofficial data library, containing Android Universe and Netrunner source material.
+>_Open source data library for the Android Universe
 </p>
 
 <p><br></p>
@@ -22,7 +22,7 @@ The imported source material on this server serves as a comprehensive online gui
 
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/-Netrunner_Array-steelblue?style=flat&logo=cpu)](https://archivesserver.github.io/docs/appendix/netrunner)
 
-The Netrunner Array will be installed at the end of each article on this server to provide a consistent Android Universe visual theme. The Netrunner Array imports related Netrunner card imagery from online Netrunner card databases. The card text is mostly irrelevant and can be ignored... that is, unless you are a Netrunner fan.
+The Netrunner Array is installed at the end of each article on this server to provide a consistent Android Universe visual theme. The Netrunner Array imports related Netrunner card imagery from online Netrunner card databases. The card text is mostly irrelevant and can be ignored... that is, unless you are a Netrunner fan.
 
 ### Netrunner Array DB
 Track and monitor the Netrunner cards used throughout this server: https://app.teable.io/share/shrYE602jQrOh9triez/view
