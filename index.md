@@ -14,7 +14,7 @@ nav_order: 0
 
 # Introduction
 
-**The open source Archives Server is your definitive guide to the Android setting and its unique vision of the future. This unofficial data library provides essential source material and showcases the fictional universe made famous by Android: Netrunner and the Android board game.**
+**The open source Archives Server provides a definitive guide to the Android Universe setting and its unique vision of the future. This unofficial data library contains essential source material to further explore the lore, showcasing the fictional universe made famous by Android: Netrunner and the Android board game.**
 
 ## Visions of life in the future
 
