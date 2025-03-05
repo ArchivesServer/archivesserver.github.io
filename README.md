@@ -6,7 +6,6 @@
     </picture>
 </p>
 
-
 <p align="center">
 <b>>_Open source data library for the Android Universe</b>
 <br>
@@ -19,16 +18,16 @@ https://archivesserver.github.io
 
 ## >_SYSTEM_DATA_UPLOAD
 
-- **IMPORT DATA**: ONGOING.
+- **IMPORT DATA**: ACTIVE.
 - **SERVER FUNCTION**: ANDROID UNIVERSE DATA LIBRARY.
-- **CONTENT SUMMARY**: CORE DATA ONLY.
+- **CONTENT SUMMARY**: SOURCE MATERIAL NODES, ORGANIZED BY MODULE. CORE DATA ONLY.
 - **STATUS**: IMMERSIVE EXPLORATION READY.
 
 <p><br></p>
 
 ## >_NETRUNNER_ARRAY
 
-- ADDED TO NODES FOR ANDROID THEME.
+- IMPORT TO NODES = ANDROID THEME.
 - CARD IMAGE PULL: https://nrdb.reteki.fun
     - SYNTAX: nrdb.reteki.fun/card_image/small/{CARD}.jpg
 - NETRUNNER ARRAY DB: https://app.teable.io/share/shrYE602jQrOh9triez/view
@@ -38,9 +37,9 @@ https://archivesserver.github.io
 
 ## >_DOMAIN
 
-- SSG: https://jekyllrb.com
-- INTERFACE: https://github.com/just-the-docs/just-the-docs
-- BUTTONS: https://shields.io / https://custom-icon-badges.demolab.com
+- **SSG**: https://jekyllrb.com
+- **INTERFACE**: https://github.com/just-the-docs/just-the-docs
+- **FUNCTION KEY**: https://custom-icon-badges.demolab.com
 
 <p><br></p>
 
