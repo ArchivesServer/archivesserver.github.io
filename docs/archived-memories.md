@@ -37,6 +37,7 @@ Attacks against androids are not considered a high priority by many law enforcem
 
 {: .note-title }
 > System Log
+> 
 > Although “weak” or applied AI systems have been used for years in devices such as secretary software agents, none of these devices approached true human intelligence, or “strong” AI, until the creation of bioroids. The key to strong AI proved to be brainmapping, a technology originally developed to diagnose and study brain disorders.
 
 <div class="netrunner-array">
