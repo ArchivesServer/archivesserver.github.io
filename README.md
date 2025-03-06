@@ -32,7 +32,7 @@ https://archivesserver.github.io
 - IMPORT TO NODES, ANDROID THEME SYNC.
 - CARD IMAGE PULL: https://nrdb.reteki.fun
     - SYNTAX: nrdb.reteki.fun/card_image/small/{CARD}.jpg
-- NETRUNNER ARRAY DB: https://app.teable.io/share/shrYE602jQrOh9triez/view
+- DATABASE: https://app.teable.io/share/shrYE602jQrOh9triez/view
 - NODE: https://archivesserver.github.io/docs/appendix/netrunner
 
 <p><br></p>
