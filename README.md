@@ -56,9 +56,8 @@ https://archivesserver.github.io
 - [Android Netrunner (FFG)](https://www.fantasyflightgames.com/en/products/android-netrunner-the-card-game) <sup>OUT OF PRINT (2018)</sup>
 
 ### $Network
-- [Null Signal Games (NSG)](https://nullsignal.games)
 - [The Netrunner Reboot Project](https://about.reteki.fun)
 
 <p><br></p>
 
-<sup>The information presented on this site about the Android Universe and/or Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games (FFG). The Archives Server is an unofficial and non-profit fansite that is not produced, endorsed, supported, or affiliated with Fantasy Flight Games (FFG), R. Talsorian Games, Wizards of the Coast, Null Signal Games (NSG), The Netrunner Reboot Project, NetrunnerDB or RetekiDB.</sup>
+<sup>The information presented on this site about the Android Universe and/or Netrunner, both literal and graphical, is copyrighted by Fantasy Flight Games (FFG). The Archives Server is an unofficial and non-profit fansite that is not produced, endorsed, supported, or affiliated with Fantasy Flight Games (FFG), R. Talsorian Games, Wizards of the Coast, The Netrunner Reboot Project or RetekiDB.</sup>
