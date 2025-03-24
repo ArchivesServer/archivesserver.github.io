@@ -12,11 +12,6 @@ Legendary hackers known as “runners” aim to fight the corps’ influence by 
 
 Can the Runner see through the Corp’s bluffs and emerge victorious from their netspace siege, or will the Corp tighten their grip upon the world? Find out by playing Netrunner.
 
-{: .note-title }
-> Learn more about Netrunner
-> - <a href="https://nullsignal.games" target="_blank">Null Signal Games (NSG)</a>
-> - <a href="http://about.reteki.fun" target="_blank">The Netrunner Reboot Project</a>
-
 ## Netrunner Array
 
 The Netrunner Array installed at the end of each article on this server, provides a consistent Android Universe visual theme. The Netrunner Array imports related Netrunner card imagery from online Netrunner card databases. The card text is mostly irrelevant and can be ignored... that is, unless you are a Netrunner fan.
