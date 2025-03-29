@@ -38,8 +38,7 @@ nav_order: 900
 
 **Blackout, the**: A period of global disruption to regional networks that precipitated a sharp market downturn. The more secure architecture of SYNC’s Network eventually replaced the Internet as a result.
 
-**BMI (Brain-machine interface)**: A device that allows direct communication between a user’s brain and a computer system. Commonly in the
-form of a so-called “brain-net” (for a wearable BMI) or a “skulljack” (a BMI cybernetically implanted in the user’s brain). BMIs are a new technology originally developed by the military. The first consumer-grade models are just entering the marketplace, and they are most popular among Netcriminals and the younger generation.
+**BMI (Brain-machine interface)**: A device that allows direct communication between a user’s brain and a computer system. Commonly in the form of a so-called “brain-net” (for a wearable BMI) or a “skulljack” (a BMI cybernetically implanted in the user’s brain). BMIs are a new technology originally developed by the military. The first consumer-grade models are just entering the marketplace, and they are most popular among Netcriminals and the younger generation.
 
 **Brainmapping and braintaping**: Brain mapping technology was developed to scan the human brain to aid with the diagnosis and study of brain disorders. It has now become a general term for brain scans of many types. Braintaping is a specialized, extremely detailed application of brainmapping technology that allows the user to develop a working (but currently imperfect) copy of the original brain. Both technologies are essential for the creation of strong AI and androids.
 
@@ -109,7 +108,9 @@ well as programs designed to create general feelings of euphoria and well-being.
 
 ## F
 
-**Forspec**: Police specialist.” slang for “forensic Full-immersion: A means of directly experiencing data via a brain-machine
+**Forspec**: Police specialist.Slang for forensic. 
+
+**Full-immersion**: A means of directly experiencing data via a brain-machine
 interface. A rare new technology with limited popularity as an entertainment medium, such as sensies, most users of full immersion technology are Net-criminals known as “runners.”
 
 ## G
@@ -138,11 +139,10 @@ interface. A rare new technology with limited popularity as an entertainment med
 
 **Ice, rarely “intrusion countermeasures electronics”**: Software devoted to protecting computer servers and devices from unauthorized access. Ice often uses “weak” AI.
 
-**Icebreaker, rarely “intrusion countercountermeasures”**: A program used for circumnavigating or deactivating ice and gaining access to secured data. Often uses “weak” AI.
+**Icebreaker, rarely “intrusion countermeasures”**: A program used for circumnavigating or deactivating ice and gaining access to secured data. Often uses “weak” AI.
 
 **ID, also “ident”**: Personal digital identification, usually accessible via wireless prompt. Often worn as a tag implanted
-under the skin, usually in the back of the hand. Carries basic contact information such as name and eddress. Also carries
-credaccount data for financial transactions, with coded security software at various levels to prevent unauthorized access. Although not legally required, IDs are in such widespread use that failure to respond to an ID ping can arouse suspicion with security personnel.
+under the skin, usually in the back of the hand. Carries basic contact information such as name and eddress. Also carries credaccount data for financial transactions, with coded security software at various levels to prevent unauthorized access. Although not legally required, IDs are in such widespread use that failure to respond to an ID ping can arouse suspicion with security personnel.
 
 **Infobroker**: A dealer in information.
 
@@ -179,7 +179,9 @@ for very high speeds due to a reduction in friction. Mag-lev trains use magnets 
 
 **Meatspace**: A slang term used by Netcriminals for the material, physical world experienced in waking consciousness. Compare “cyberspace”. A number of allied terms are derived from it (such as “meat body”).
 
-**Med-techs**: Short for medical technicians. Megacorp, also “corp”: A generic term for a megacorporation, generally an inter-
+**Med-techs**: Short for medical technicians. 
+
+**Megacorp, also “corp”**: A generic term for a megacorporation, generally an inter-
 national corporation. Many have their headquarters in New Angeles to minimize legislation or oversight by Earth governments.
 
 **Megapolis, also metroplex**: Proper terms for very large cities, especially for several cities that have merged into enormous
@@ -227,7 +229,9 @@ metroplexes covering, for example, the northeastern U.S. seaboard from Boston to
 
 **Panic button**: An app on PADs that summons police or security forces in the event of an emergency.
 
-**Parallel brain**: The two-part brain of a bioroid. Sometimes refers specifically to the traditional quantum processor component of the two-part brain. PAT or public access terminal: Prepaid public computer kiosks available for use by the minute. Used by disenfrancistos or off-gridders who need access to the Network but lack an ID or cred account. Exploited by Netcriminals and others for their relative anonymity.
+**Parallel brain**: The two-part brain of a bioroid. Sometimes refers specifically to the traditional quantum processor component of the two-part brain. 
+
+**PAT or public access terminal**: Prepaid public computer kiosks available for use by the minute. Used by disenfrancistos or off-gridders who need access to the Network but lack an ID or cred account. Exploited by Netcriminals and others for their relative anonymity.
 
 **Ping**: Generic term for electronically accessing a person or system, usually by transmitting a signal which is detected by the target’s ID and retransmitted back, sometimes with additional information.
 
@@ -251,15 +255,21 @@ metroplexes covering, for example, the northeastern U.S. seaboard from Boston to
 
 **Reader**: Tiny, portable device—sometimes worn as jewelry, or it can be inserted and worn as an implant under the skin, typically on a person’s wrist—that reads another person’s credaccount information from his ID and deducts a fee from it automatically. Used for electronic funds transfer.
 
-**Regolith**: A layer of loose material covering solid rock. Although technically found on all three inhabited worlds, in common use always refers to Lunar regolith, which is rich in helium-3. Respirocytes, also Freitas respirocytes: Artificial red blood cells first described by nanotech pioneer Robert Freitas in 1996. Greatly improves the blood’s efficiency at transporting oxygen and carbon dioxide, allowing non–genetically modified humans to breath comfortably at high altitudes, or to survive for up to an hour without breathing at all.
+**Regolith**: A layer of loose material covering solid rock. Although technically found on all three inhabited worlds, in common use always refers to Lunar regolith, which is rich in helium-3. 
 
-**Ristie**: From “aristocrat.” Street term for wealthy people living in their high-sec tower communities. Rivera Declaration: Leased the Root and the surrounding vicinity from Ecuador to the Weyland Consortium.
+*"Respirocytes, also Freitas respirocytes**: Artificial red blood cells first described by nanotech pioneer Robert Freitas in 1996. Greatly improves the blood’s efficiency at transporting oxygen and carbon dioxide, allowing non–genetically modified humans to breath comfortably at high altitudes, or to survive for up to an hour without breathing at all.
+
+**Ristie**: From “aristocrat.” Street term for wealthy people living in their high-sec tower communities. 
+
+**Rivera Declaration**: Leased the Root and the surrounding vicinity from Ecuador to the Weyland Consortium.
 
 **Runner**: A slang term for Netcriminals who use full-immersion interfaces to break into secured computer networks.
 
 ## S
 
-**SAM or Simulant Abolitionist Movement**: Political grassroots organization that believes the use of clones is tantamount to slavery, that clones are humans beings denied their civil rights, and that clone-slavery should be abolished. Not the same as the ACM, which includes many groups that don’t think clones should have human rights. SEA or Space Elevator Authority: The local governing body of the Space Elevator under New Angeles jurisdiction through the New Angeles Transit Authority. Created by the Treaty of Heinlein.
+**SAM or Simulant Abolitionist Movement**: Political grassroots organization that believes the use of clones is tantamount to slavery, that clones are humans beings denied their civil rights, and that clone-slavery should be abolished. Not the same as the ACM, which includes many groups that don’t think clones should have human rights. 
+
+**SEA or Space Elevator Authority**: The local governing body of the Space Elevator under New Angeles jurisdiction through the New Angeles Transit Authority. Created by the Treaty of Heinlein.
 
 **Sec**: Short for security.
 
@@ -267,7 +277,9 @@ metroplexes covering, for example, the northeastern U.S. seaboard from Boston to
 
 **Secretary**: Also sometimes avatar or PA, for Personal Assistant. A software app, often running on a PAD. Serves as an
 electronic secretary, keeping track of appointments, remembering key bits of information, and interfacing with the virtual world. Among other things, it can answer vid calls, displaying a life-like image of the owner, either to recite a short message (which can be tailored, by name, to different individuals) or to interact with a caller for fairly simple conversations. Many can pass the Turing test, at least for simple topics. By law, it must identify itself as an AI. “Sec-
-retary” can also be used for any weak AI construct, although such use is technically inaccurate and can be confusing. Sensies, also simsensies or sensiesofts: Entertainment media that includes other senses than audio and visual. Illegal versions are sometimes called sexies or snuffies. Virtual reality and full-immersion versions both exist.
+retary” can also be used for any weak AI construct, although such use is technically inaccurate and can be confusing. 
+
+**Sensies, also simsensies or sensiesofts**: Entertainment media that includes other senses than audio and visual. Illegal versions are sometimes called sexies or snuffies. Virtual reality and full-immersion versions both exist.
 
 **SEZENLA, also SEZ**: The Special Economic Zone of Ecuadorian New Los Angeles. New Angeles.
 
@@ -284,7 +296,9 @@ retary” can also be used for any weak AI construct, although such use is techn
 **Smart-**: Used as a general prefix to indicate an object or system that has been integrated with the Network to improve its
 function.
 
-**Smartfabric/smart-threads**: Fabric using nanodisplays used to design smartsuits. Smartgun, smartbullet: A gun (or bullet)
+**Smartfabric/smart-threads**: Fabric using nanodisplays used to design smartsuits. 
+
+""Smartgun, smartbullet**: A gun (or bullet)
 with self-aiming capabilities. Sometimes integrated with a user’s BMI. Smartbullets also integrate identify friend or foe (IFF) technology.
 
 **Smartslick**: One type of smartsuit commonly worn as a small package on the shoulders behind the head. When it senses rain, it unfolds to cover the head, shoulders, and upper body, refolding itself when no longer needed.
@@ -349,7 +363,9 @@ the Moon as mass transit. Tube-lev trains are extremely fast because their tunne
 
 **Waldo**: A remote-operated (or sometimes AI-piloted) robot.
 
-**Warroid**: A bioroid specialized for combat. Currently theoretical. Wetware: Slang term for brains and other organic (“meat”) processing units.
+**Warroid**: A bioroid specialized for combat. Currently theoretical. 
+
+**Wetware**: Slang term for brains and other organic (“meat”) processing units.
 
 **Wetwork**: Usually illegal paramilitary operations, including sabotage and especially assassination.
 
