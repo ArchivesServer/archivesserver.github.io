@@ -1,4 +1,17 @@
-// Netrunner Array
+// FONT
+
+.grey-font-b {
+  font-weight: 700;
+  color: #5a5a5a; /* Grey-100 */
+}
+
+.grey-font-bl {
+  font-weight: 700;
+  color: #959396; /* Grey-000 */
+}
+
+// NETRUNNER-ARRAY
+
 .netrunner-array {
     text-align: center;
     margin: 40px 0;
@@ -20,4 +33,85 @@
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+}
+
+// NAV ARROWS
+
+.nav-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.nav-button {
+  text-decoration: none;
+}
+
+.nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px; 
+}
+
+.nav-button:first-of-type .nav-item::after {
+  content: "Previous";
+  font-size: 12px;
+  font-weight: bold;
+  color: #716e76;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.nav-button:last-of-type .nav-item::after {
+  content: "Next";
+  font-size: 12px;
+  font-weight: bold;
+  color: #716e76;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.nav-item svg path {
+  stroke: #264caf;
+  stroke-width: 3;
+  fill: none;
+  transition: transform 0.3s ease, stroke 0.3s ease;
+}
+
+.nav-button:hover svg {
+  transform: scale(1.2);
+}
+
+.nav-button:hover path {
+  stroke: #264caf;
+}
+
+.nav-button:hover .nav-item::after {
+  opacity: 1;
+}
+
+.nav-button:hover .nav-item:last-of-type::after {
+  opacity: 1;
+}
+
+.nav-button.no-link {
+  pointer-events: none;
+  cursor: default;
+}
+
+.nav-button.no-link .nav-item svg path {
+  stroke: #d3d3d3;
+}
+
+.nav-button.no-link .nav-item::after {
+  content: "Previous";
+  font-size: 12px;
+  font-weight: bold;
+  color: #d3d3d3;
+  text-align: center;
+  opacity: 0;
 }
