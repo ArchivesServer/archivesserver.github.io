@@ -46,3 +46,31 @@ These stories, the questions they raise, and the information they provide about 
     </a>
     <div class="array-badge"></div>
 </div>
+
+{: .note-title }
+> Disclaimer
+>
+>The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Archives Server project is an unofficial, non-profit and non-commercial fansite. This project is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games, any other rights holders or RetekiDB. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners. 
+> 
+> Netrunner is a TM of R. Talsorian Games, Inc. Android is a TM & © Fantasy Flight Games. All rights reserved. Netrunner is licensed by Wizards of the Coast LLC. © Wizards. 
+
+<div class="nav-buttons">
+  <!-- Previous Button -->
+  <div class="nav-button no-link" aria-label="No previous page">
+    <div class="nav-item">
+      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+        <path d="M30 20L20 30L30 40" />
+      </svg>
+      <!-- No link here -->
+    </div>
+  </div>
+
+  <!-- Next Button -->
+  <a href="/docs/welcome" class="nav-button" aria-label="Next page">
+    <div class="nav-item">
+      <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+        <path d="M20 20L30 30L20 40" />
+      </svg>
+    </div>
+  </a>
+</div>
