@@ -8,7 +8,7 @@ nav_order: 0
 
 <center style="margin-top: 0; padding-top: 0;">  
     <img src="/assets/images/archives-server.png" alt="logo" /> 
-    <p class="fw-700 text-blue-300">Open source data library for the Android Universe</p>
+    <p class="fw-700 text-blue-300">Unofficial data library for the Android Universe</p>
 </center>
 <br>
 
