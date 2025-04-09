@@ -18,7 +18,7 @@ https://archivesserver.github.io
 
 <p><br></p>
 
-## >_SYSTEM_DATA_UPLOAD
+## >_0001_SYSTEM_DATA_UPLOAD
 
 **$IMPORT_DATA**: ACTIVE.<br>
 **$SERVER_FUNCTION**: ANDROID UNIVERSE OPEN-SOURCE DATA LIBRARY.<br>
@@ -27,7 +27,7 @@ https://archivesserver.github.io
 
 <p><br></p>
 
-## >_NETRUNNER_ARRAY
+## >_0002_NETRUNNER_ARRAY
 
 **$IMPORT_TO_NODES**: ANDROID THEME SYNC.<br>
 **$CARD_IMAGE_PULL**: https://nrdb.reteki.fun<br>
@@ -37,7 +37,7 @@ https://archivesserver.github.io
 
 <p><br></p>
 
-## >_DOMAIN
+## >_0003_DOMAIN_CONTROLLER
 
 **$SSG**: https://jekyllrb.com<br>
 **$INTERFACE**: https://github.com/just-the-docs/just-the-docs<br>
@@ -45,7 +45,7 @@ https://archivesserver.github.io
 
 <p><br></p>
 
-## >_RAW_COGNITIVE_FEED
+## >_0004_RAW_COGNITIVE_FEED
 
 **$Android_Universe**: [The Worlds of Android (FFG)](https://www.fantasyflightgames.com/en/products/the-worlds-of-android) <sup>OUT OF PRINT (2018)</sup>
 
@@ -53,7 +53,7 @@ https://archivesserver.github.io
 
 <p><br></p>
 
-### >_DATA_DIRECTIVE_7A-14
+## >_0004_DATA_DIRECTIVE_7A-14
 
 <sup>The Android Universe and Netrunner content featured on this site, including all imagery and intellectual property, is the copyright of their respective rights holders, including Fantasy Flight Games, and is provided solely for informational and educational purposes. The open-source Archives Server project is an unofficial, non-profit and non-commercial fansite. This project is not affiliated with, endorsed by, or sponsored by Fantasy Flight Games, any other rights holders or RetekiDB. All trademarks, logos, imagery, and related graphics remain the exclusive property of their respective owners.
 </sup>
